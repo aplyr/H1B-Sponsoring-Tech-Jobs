@@ -2,24 +2,18 @@
 
 Early-career U.S. tech roles at companies with an H-1B sponsorship record. Postings that rule out sponsorship are removed. Updated daily.
 
-Internships, new grad and junior tech roles in the U.S. at companies with a record of sponsoring H-1B visas. Built for international students on F-1, CPT and OPT who are tired of applying to companies that were never going to sponsor.
+Internships, new grad and junior tech roles in the U.S. at companies that have sponsored H-1B visas, for students on F-1, CPT and OPT. Sponsorship is still decided role by role, so bring it up with the recruiter early.
 
-Two filters run every day. Only employers with a documented H-1B history are included, and any posting whose own description rules out sponsorship ("must be authorized to work without sponsorship", "U.S. citizens only") is dropped even if the company sponsors elsewhere. Sponsorship is still decided per role, so raise it with the recruiter early.
+## How to use this list
 
-## Reading the tables
-
-- Each section is sorted by posting date, newest first. Applying in the first week a role is up gives you the best odds.
-- **Apply** opens the role on Aplyr with the full description, the pay range when the employer lists one, and a direct link to the employer's application.
-- **Pay** is shown only when the posting itself lists it.
+- **Apply** opens the role on Aplyr, with the full description and a link to the employer's application.
 - 🆕 added in the last 48 hours
 - `Sponsors visas` the company has sponsored H-1B visas before
 - `No sponsorship` the posting says it can’t sponsor a visa
 - `U.S. citizens` needs U.S. citizenship or a security clearance
-- Sponsorship is tracked per company. `Sponsors visas` means the employer has sponsored before, not that this role will, so ask the recruiter early.
-- When a role closes it moves to **Recently closed** for 14 days, then drops off.
-- Star the repo to find it again. It's rebuilt every day.
+- Closed roles move to **Recently closed** for 14 days.
 
-Spotted a closed role, a duplicate, or something that doesn't belong? Open an issue (see [CONTRIBUTING.md](CONTRIBUTING.md)). We read every one.
+Found a closed role or a mistake? [Open an issue](CONTRIBUTING.md).
 
 <!-- APLYR:LISTINGS:START -->
 <!-- Generated daily by scripts/generate.mjs. Edits inside these markers are overwritten. -->
@@ -318,4 +312,4 @@ Spotted a closed role, a duplicate, or something that doesn't belong? Open an is
 
 ---
 
-Listings come from [Aplyr](https://aplyr.ai/l/h1b-sponsor-entry-level-tech-jobs?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=readme)'s job index, which reads postings directly from employers' own careers sites and re-checks them every day. This repo isn't affiliated with or endorsed by the companies listed.
+Listings come from [Aplyr](https://aplyr.ai/l/h1b-sponsor-entry-level-tech-jobs?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=readme), straight from employers' own careers sites. Not affiliated with the companies listed.
