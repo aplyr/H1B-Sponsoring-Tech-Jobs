@@ -24,7 +24,7 @@ Found a closed role or a mistake? [Open an issue](CONTRIBUTING.md).
 
 **Apply to all of these with Autopilot:** [set it up once on Aplyr](https://aplyr.ai/l/h1b-sponsor-entry-level-tech-jobs?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=autopilot) and it applies for you as new roles open.
 
-**Get new roles by [email](https://aplyr.ai/l/h1b-sponsor-entry-level-tech-jobs?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=alerts#alerts) or [RSS](https://aplyr.ai/api/public/job-lists/h1b-sponsoring-tech-jobs.xml)**, no account needed.
+**Get new roles by [RSS](https://aplyr.ai/api/public/job-lists/h1b-sponsoring-tech-jobs.xml)**, no account needed.
 
 ### This week
 
