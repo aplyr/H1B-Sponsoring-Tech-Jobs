@@ -2,21 +2,235 @@
  "version": 1,
  "slug": "h1b-sponsoring-tech-jobs",
  "open": {
-  "blackrock.com::unified communications operations associate princeton": {
-   "id": "b2ffeeb98991",
-   "company": "BlackRock",
-   "companyUrl": "https://aplyr.ai/companies/blackrock?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "Unified Communications Operations, Associate - Princeton",
+  "regeneron.com::associate manager ai data engineer": {
+   "id": "dbf52cd666a4",
+   "company": "Regeneron",
+   "companyUrl": "https://aplyr.ai/companies/regeneron?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Associate Manager, AI Data Engineer",
    "locations": [
-    "Princeton, NJ"
+    "TARRYTOWN"
+   ],
+   "section": "data",
+   "posted": "2026-10-24",
+   "added": "2026-10-24T05:48:00.000Z",
+   "url": "https://aplyr.ai/jobs/dbf52cd666a4/associate-manager-ai-data-engineer?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-24"
+  },
+  "unisys.com::night shift l2 noc linux unix systems administrator": {
+   "id": "9b062decf88d",
+   "company": "Unisys",
+   "companyUrl": "https://aplyr.ai/companies/unisys?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Night Shift L2 NOC Linux/Unix Systems Administrator",
+   "locations": [
+    "Remote, PA"
+   ],
+   "remote": true,
+   "level": "Junior",
+   "section": "swe",
+   "posted": "2026-10-24",
+   "added": "2026-10-24T05:48:00.000Z",
+   "url": "https://aplyr.ai/jobs/9b062decf88d/night-shift-l2-noc-linuxunix-systems-administrator?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-24"
+  },
+  "leidos.com::junior radio frequency rf engineer spectrum engineer": {
+   "id": "d55bac91033c",
+   "company": "Leidos",
+   "companyUrl": "https://aplyr.ai/companies/leidos?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Junior Radio Frequency (RF) Engineer/Spectrum Engineer",
+   "locations": [
+    "Washington, DC"
+   ],
+   "level": "Junior",
+   "section": "hw",
+   "posted": "2026-10-24",
+   "added": "2026-10-24T05:31:32.000Z",
+   "url": "https://aplyr.ai/jobs/d55bac91033c/junior-radio-frequency-rf-engineerspectrum-engineer?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-24"
+  },
+  "cboe.com::operational resilience technical content intern": {
+   "id": "4b5276f5801c",
+   "company": "Cboe",
+   "companyUrl": "https://aplyr.ai/companies/cboe?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Operational Resilience & Technical Content Intern",
+   "locations": [
+    "Kansas City, MO"
+   ],
+   "level": "Intern",
+   "section": "swe",
+   "posted": "2026-10-23",
+   "added": "2026-10-23T23:30:48.000Z",
+   "url": "https://aplyr.ai/jobs/4b5276f5801c/operational-resilience-technical-content-intern?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-24"
+  },
+  "icf.com::junior international labor analyst on site dc": {
+   "id": "dc16f0d7a544",
+   "company": "ICF International",
+   "companyUrl": "https://aplyr.ai/companies/icf?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Junior International Labor Analyst (On-site, DC)",
+   "locations": [
+    "Washington, DC"
+   ],
+   "level": "Junior",
+   "section": "data",
+   "posted": "2026-10-23",
+   "added": "2026-10-23T22:50:56.000Z",
+   "url": "https://aplyr.ai/jobs/dc16f0d7a544/junior-international-labor-analyst-on-site-dc?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-24"
+  },
+  "relativity.com::it associate i": {
+   "id": "4d8e7fceaf23",
+   "company": "Relativity",
+   "companyUrl": "https://aplyr.ai/companies/relativity?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "IT Associate I",
+   "locations": [
+    "Cape Canaveral, Florida"
    ],
    "level": "Junior",
    "section": "swe",
    "posted": "2026-10-23",
-   "added": "2026-10-23T17:40:39.000Z",
-   "url": "https://aplyr.ai/jobs/b2ffeeb98991/unified-communications-operations-associate-princeton?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "added": "2026-10-24T07:15:27.000Z",
+   "pay": "$26.8–40.2/hr",
+   "url": "https://aplyr.ai/jobs/4d8e7fceaf23/it-associate-i?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
    "sponsorsH1B": true,
-   "firstSeen": "2026-10-23"
+   "firstSeen": "2026-10-24"
+  },
+  "gd.com::network administrator associate hybrid": {
+   "id": "71b186791425",
+   "company": "General Dynamics IT",
+   "companyUrl": "https://aplyr.ai/companies/gd?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Network Administrator Associate (Hybrid)",
+   "locations": [
+    "USA AZ Home Office (AZHOME)"
+   ],
+   "level": "Junior",
+   "section": "swe",
+   "posted": "2026-10-23",
+   "added": "2026-10-23T20:20:43.000Z",
+   "url": "https://aplyr.ai/jobs/71b186791425/network-administrator-associate-hybrid?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-24"
+  },
+  "gd.com::activity security representative asr i": {
+   "id": "c79cc67a0999",
+   "company": "General Dynamics IT",
+   "companyUrl": "https://aplyr.ai/companies/gd?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Activity Security Representative (ASR) I",
+   "locations": [
+    "USA UT Ogden",
+    "USA VA Lorton",
+    "USA OH Dayton"
+   ],
+   "level": "Junior",
+   "section": "swe",
+   "posted": "2026-10-23",
+   "added": "2026-10-23T20:20:43.000Z",
+   "url": "https://aplyr.ai/jobs/c79cc67a0999/activity-security-representative-asr-i?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-21"
+  },
+  "waymo.com::2027 summer intern ms phd software engineer ml frameworks and efficiency": {
+   "id": "71656bb564b5",
+   "company": "Waymo",
+   "companyUrl": "https://aplyr.ai/companies/waymo?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "2027 Summer Intern, MS/PhD, Software Engineer, ML Frameworks and Efficiency",
+   "locations": [
+    "Mountain View, CA"
+   ],
+   "level": "Intern",
+   "section": "swe",
+   "posted": "2026-10-23",
+   "added": "2026-10-24T08:00:28.000Z",
+   "pay": "$70–85/hr",
+   "url": "https://aplyr.ai/jobs/71656bb564b5/2027-summer-intern-msphd-software-engineer-ml-frameworks-and-efficiency?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-24"
+  },
+  "coretelligent.com::client support engineer i la": {
+   "id": "48a9c93c6492",
+   "company": "Coretelligent",
+   "companyUrl": "https://aplyr.ai/companies/coretelligent?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Client Support Engineer I - LA",
+   "locations": [
+    "Los Angeles, California"
+   ],
+   "level": "Junior",
+   "section": "swe",
+   "posted": "2026-10-23",
+   "added": "2026-10-24T05:30:45.000Z",
+   "pay": "$85k–105k/yr",
+   "url": "https://aplyr.ai/jobs/48a9c93c6492/client-support-engineer-i-la?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-24"
+  },
+  "kla.com::software engineering intern": {
+   "id": "da5d6b77db1e",
+   "company": "KLA Corporation",
+   "companyUrl": "https://aplyr.ai/companies/kla?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Software Engineering Intern",
+   "locations": [
+    "Milpitas, CA",
+    "Ann Arbor, MI"
+   ],
+   "level": "Intern",
+   "section": "swe",
+   "posted": "2026-10-23",
+   "added": "2026-10-23T18:50:30.000Z",
+   "url": "https://aplyr.ai/jobs/da5d6b77db1e/software-engineering-intern?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17"
+  },
+  "kla.com::software engineering intern ai ml for diagnostics calibration": {
+   "id": "07305f4f2850",
+   "company": "KLA Corporation",
+   "companyUrl": "https://aplyr.ai/companies/kla?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Software Engineering Intern – AI/ML for Diagnostics & Calibration",
+   "locations": [
+    "Milpitas, CA"
+   ],
+   "level": "Intern",
+   "section": "swe",
+   "posted": "2026-10-23",
+   "added": "2026-10-23T18:50:30.000Z",
+   "url": "https://aplyr.ai/jobs/07305f4f2850/software-engineering-intern-aiml-for-diagnostics-calibration?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-24"
+  },
+  "carrier.com::software engineering intern summer": {
+   "id": "001e7b0976f8",
+   "company": "Carrier",
+   "companyUrl": "https://aplyr.ai/companies/carrier?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Software Engineering Intern - Summer",
+   "locations": [
+    "CAN01: Carrier-Syracuse, 6304 Carrier Parkway, East Syracuse, NY, 13057 USA"
+   ],
+   "level": "Intern",
+   "section": "swe",
+   "posted": "2026-10-23",
+   "added": "2026-10-23T18:11:40.000Z",
+   "url": "https://aplyr.ai/jobs/001e7b0976f8/software-engineering-intern-summer?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17"
+  },
+  "cisco.com::software engineer compiler ii full time united states": {
+   "id": "3bd4ed5b9634",
+   "company": "Cisco",
+   "companyUrl": "https://aplyr.ai/companies/cisco?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Software Engineer Compiler II (Full Time) – United States",
+   "locations": [
+    "Austin, Texas"
+   ],
+   "level": "Junior",
+   "section": "swe",
+   "posted": "2026-10-23",
+   "added": "2026-10-23T17:32:12.000Z",
+   "url": "https://aplyr.ai/jobs/3bd4ed5b9634/software-engineer-compiler-ii-full-time-united-states?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-24"
   },
   "leidos.com::junior software developer": {
    "id": "7e70dbe5ffab",
@@ -35,53 +249,263 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-23"
   },
-  "appliedmaterials.com::2027 software engineer new college grad bachelor s gloucester ma": {
-   "id": "cc3a5afda909",
-   "company": "Applied Materials",
-   "companyUrl": "https://aplyr.ai/companies/appliedmaterials?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "2027 Software Engineer New College Grad (Bachelor's) - Gloucester, MA",
+  "lockheedmartin.com::cyber systems security engineering integrated watchfloor tier i ii": {
+   "id": "4e218e1304c1",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Cyber Systems Security Engineering - (Integrated Watchfloor Tier I / II)",
    "locations": [
-    "Gloucester,MA"
+    "Hanover, MD"
    ],
-   "level": "New grad",
+   "level": "Junior",
    "section": "swe",
    "posted": "2026-10-23",
-   "added": "2026-10-23T12:30:21.000Z",
-   "url": "https://aplyr.ai/jobs/cc3a5afda909/2027-software-engineer-new-college-grad-bachelors-gloucester-ma?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "added": "2026-10-24T11:36:23.000Z",
+   "url": "https://aplyr.ai/jobs/4e218e1304c1/cyber-systems-security-engineering-integrated-watchfloor-tier-i-ii?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-23"
   },
-  "sanofi.com::2027 spring co op process and cmc data science waltham ma": {
-   "id": "9872a251d775",
-   "company": "Sanofi",
-   "companyUrl": "https://aplyr.ai/companies/sanofi?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "2027 Spring Co op Process and CMC Data Science Waltham MA",
+  "microsoft.com::software engineering intern": {
+   "id": "af7d89c2caf3",
+   "company": "Microsoft",
+   "companyUrl": "https://aplyr.ai/companies/microsoft?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Software Engineering Intern",
    "locations": [
-    "Waltham, MA"
+    "United States, Oklahoma, Tulsa"
+   ],
+   "level": "Intern",
+   "section": "swe",
+   "posted": "2026-10-23",
+   "added": "2026-10-24T06:31:15.000Z",
+   "url": "https://aplyr.ai/jobs/af7d89c2caf3/software-engineering-intern?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-24"
+  },
+  "nbcuniversal.com::associates systems engineer": {
+   "id": "ed7e7f277e49",
+   "company": "NBCUniversal",
+   "companyUrl": "https://aplyr.ai/companies/nbcuniversal?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Associates Systems Engineer",
+   "locations": [
+    "Fort Worth"
+   ],
+   "level": "Junior",
+   "section": "swe",
+   "posted": "2026-10-23",
+   "added": "2026-10-24T11:03:26.000Z",
+   "url": "https://aplyr.ai/jobs/ed7e7f277e49/associates-systems-engineer?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-24"
+  },
+  "microsoft.com::product management intern": {
+   "id": "f0dd3f32b417",
+   "company": "Microsoft",
+   "companyUrl": "https://aplyr.ai/companies/microsoft?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Product Management Intern",
+   "locations": [
+    "United States, Massachusetts, Cambridge"
+   ],
+   "level": "Intern",
+   "section": "pm",
+   "posted": "2026-10-23",
+   "added": "2026-10-24T06:31:15.000Z",
+   "url": "https://aplyr.ai/jobs/f0dd3f32b417/product-management-intern?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-24"
+  },
+  "lockheedmartin.com::electrical engineer asc level 1": {
+   "id": "afd884b5901d",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Electrical Engineer Asc - Level 1",
+   "locations": [
+    "Orlando, FL",
+    "Andover, MA"
+   ],
+   "level": "Junior",
+   "section": "hw",
+   "posted": "2026-10-23",
+   "added": "2026-10-24T11:36:23.000Z",
+   "url": "https://aplyr.ai/jobs/afd884b5901d/electrical-engineer-asc-level-1?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-23"
+  },
+  "bosch.com::agentic ai r d intern": {
+   "id": "b21934d53777",
+   "company": "Bosch",
+   "companyUrl": "https://aplyr.ai/companies/bosch?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Agentic AI R&D Intern",
+   "locations": [
+    "Sunnyvale"
    ],
    "level": "Intern",
    "section": "data",
    "posted": "2026-10-23",
-   "added": "2026-10-23T05:47:31.000Z",
-   "url": "https://aplyr.ai/jobs/9872a251d775/2027-spring-co-op-process-and-cmc-data-science-waltham-ma?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "added": "2026-10-24T05:51:02.000Z",
+   "pay": "$53–70/hr",
+   "url": "https://aplyr.ai/jobs/b21934d53777/agentic-ai-rd-intern?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
    "sponsorsH1B": true,
-   "firstSeen": "2026-10-23"
+   "firstSeen": "2026-10-24"
   },
-  "nvidia.com::silicon co design engineer new college grad 2026": {
-   "id": "888b1e401605",
-   "company": "NVIDIA",
-   "companyUrl": "https://aplyr.ai/companies/nvidia?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "Silicon Co-Design Engineer - New College Grad 2026",
+  "globalfoundries.com::new product development test engineer intern summer 2027": {
+   "id": "983852dd1ce1",
+   "company": "GlobalFoundries",
+   "companyUrl": "https://aplyr.ai/companies/globalfoundries?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "New Product Development Test Engineer Intern (Summer 2027)",
    "locations": [
-    "US, CA, Santa Clara"
+    "USA - Texas - Richardson"
    ],
-   "level": "New grad",
+   "level": "Intern",
+   "section": "swe",
+   "posted": "2026-10-23",
+   "added": "2026-10-23T20:40:36.000Z",
+   "url": "https://aplyr.ai/jobs/983852dd1ce1/new-product-development-test-engineer-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-24"
+  },
+  "hpe.com::cybersecurity engineering intern": {
+   "id": "91479fe0300f",
+   "company": "HPE",
+   "companyUrl": "https://aplyr.ai/companies/hpe?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Cybersecurity Engineering Intern",
+   "locations": [
+    "Spring, Texas"
+   ],
+   "level": "Intern",
+   "section": "swe",
+   "posted": "2026-10-23",
+   "added": "2026-10-24T12:31:20.000Z",
+   "url": "https://aplyr.ai/jobs/91479fe0300f/cybersecurity-engineering-intern?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-24"
+  },
+  "td.com::analyst associate commercial card product manager transaction banking product td securities": {
+   "id": "322c158f2b3b",
+   "company": "TD Bank",
+   "companyUrl": "https://aplyr.ai/companies/td?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Analyst/Associate - Commercial Card Product Manager - Transaction Banking Product, TD Securities",
+   "locations": [
+    "Charlotte, North Carolina"
+   ],
+   "level": "Junior",
+   "section": "pm",
+   "posted": "2026-10-23",
+   "added": "2026-10-24T12:30:48.000Z",
+   "url": "https://aplyr.ai/jobs/322c158f2b3b/analystassociate-commercial-card-product-manager-transaction-banking-product-td-?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-24"
+  },
+  "rtx.com::fpga electrical engineer i onsite": {
+   "id": "7e05241cbb23",
+   "company": "RTX/Raytheon",
+   "companyUrl": "https://aplyr.ai/companies/rtx?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "FPGA Electrical Engineer I - Onsite",
+   "locations": [
+    "US-IN-FT WAYNE-150A ~ 1010 Production Rd ~ BLDG 150A"
+   ],
+   "level": "Junior",
    "section": "hw",
    "posted": "2026-10-23",
-   "added": "2026-10-23T05:16:50.000Z",
-   "url": "https://aplyr.ai/jobs/888b1e401605/silicon-co-design-engineer-new-college-grad-2026?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "added": "2026-10-24T12:30:19.000Z",
+   "url": "https://aplyr.ai/jobs/7e05241cbb23/fpga-electrical-engineer-i-onsite?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
    "sponsorsH1B": true,
-   "firstSeen": "2026-10-23"
+   "firstSeen": "2026-10-24"
+  },
+  "rtx.com::engineer i software engineer test engineering onsite": {
+   "id": "07416a482422",
+   "company": "RTX/Raytheon",
+   "companyUrl": "https://aplyr.ai/companies/rtx?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Engineer I, Software Engineer - Test Engineering (Onsite)",
+   "locations": [
+    "US-MN-BURNSVILLE-WEST ~ 14300 Judicial Rd ~ WEST BLDG"
+   ],
+   "level": "Junior",
+   "section": "swe",
+   "posted": "2026-10-23",
+   "added": "2026-10-24T12:30:19.000Z",
+   "url": "https://aplyr.ai/jobs/07416a482422/engineer-i-software-engineer-test-engineering-onsite?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-24"
+  },
+  "citi.com::technology application development summer analyst irving usa 2027": {
+   "id": "d45449f52b8f",
+   "company": "Citigroup",
+   "companyUrl": "https://aplyr.ai/companies/citi?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Technology, Application Development, Summer Analyst, Irving - USA, 2027",
+   "locations": [
+    "Irving Texas United States"
+   ],
+   "level": "Intern",
+   "section": "swe",
+   "posted": "2026-10-23",
+   "added": "2026-10-24T12:15:18.000Z",
+   "url": "https://aplyr.ai/jobs/d45449f52b8f/technology-application-development-summer-analyst-irving-usa-2027?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-24"
+  },
+  "citi.com::technology cyber security summer analyst irving usa 2027": {
+   "id": "10aec7acaf73",
+   "company": "Citigroup",
+   "companyUrl": "https://aplyr.ai/companies/citi?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Technology, Cyber Security, Summer Analyst, Irving - USA, 2027",
+   "locations": [
+    "Irving Texas United States"
+   ],
+   "level": "Intern",
+   "section": "swe",
+   "posted": "2026-10-23",
+   "added": "2026-10-24T12:15:18.000Z",
+   "url": "https://aplyr.ai/jobs/10aec7acaf73/technology-cyber-security-summer-analyst-irving-usa-2027?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-24"
+  },
+  "citi.com::technology application development full time analyst irving usa 2027": {
+   "id": "d7c9af2bae94",
+   "company": "Citigroup",
+   "companyUrl": "https://aplyr.ai/companies/citi?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Technology, Application Development, Full Time Analyst, Irving - USA, 2027",
+   "locations": [
+    "Irving Texas United States"
+   ],
+   "level": "New grad",
+   "section": "swe",
+   "posted": "2026-10-23",
+   "added": "2026-10-24T12:15:18.000Z",
+   "url": "https://aplyr.ai/jobs/d7c9af2bae94/technology-application-development-full-time-analyst-irving-usa-2027?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-24"
+  },
+  "citi.com::technology cyber security full time analyst irving 2027": {
+   "id": "7c7ad9c05255",
+   "company": "Citigroup",
+   "companyUrl": "https://aplyr.ai/companies/citi?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Technology- Cyber Security, Full Time Analyst, Irving 2027",
+   "locations": [
+    "Irving Texas United States"
+   ],
+   "level": "New grad",
+   "section": "swe",
+   "posted": "2026-10-23",
+   "added": "2026-10-24T12:15:18.000Z",
+   "url": "https://aplyr.ai/jobs/7c7ad9c05255/technology-cyber-security-full-time-analyst-irving-2027?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-24"
+  },
+  "nike.com::converse ai enablement graduate internship": {
+   "id": "2023b875c01a",
+   "company": "Nike",
+   "companyUrl": "https://aplyr.ai/companies/nike?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Converse AI Enablement Graduate Internship",
+   "locations": [
+    "Boston, Massachusetts"
+   ],
+   "level": "Intern",
+   "section": "data",
+   "posted": "2026-10-23",
+   "added": "2026-10-23T18:50:30.000Z",
+   "url": "https://aplyr.ai/jobs/2023b875c01a/converse-ai-enablement-graduate-internship?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-24"
   },
   "cvshealth.com::innovation technology internship software engineering data intelligence summer 2027 graduate": {
    "id": "1bfdd03dbca2",
@@ -179,6 +603,22 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-23"
   },
+  "cvshealth.com::medicaid data analytics corporate internship summer 2027 undergraduate": {
+   "id": "a64df034dc3a",
+   "company": "CVS Health",
+   "companyUrl": "https://aplyr.ai/companies/cvshealth?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Medicaid Data Analytics Corporate Internship - Summer 2027 (Undergraduate)",
+   "locations": [
+    "CT - Hartford"
+   ],
+   "level": "Intern",
+   "section": "data",
+   "posted": "2026-10-23",
+   "added": "2026-10-23T05:02:49.000Z",
+   "url": "https://aplyr.ai/jobs/a64df034dc3a/medicaid-data-analytics-corporate-internship-summer-2027-undergraduate?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-24"
+  },
   "lockheedmartin.com::electrical engineer asc level 1 programmable logic fpga design": {
    "id": "8f21c4c2b373",
    "company": "Lockheed Martin",
@@ -192,22 +632,6 @@
    "posted": "2026-10-23",
    "added": "2026-10-23T11:34:44.000Z",
    "url": "https://aplyr.ai/jobs/8f21c4c2b373/electrical-engineer-asc-level-1-programmable-logic-fpga-design?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-23"
-  },
-  "lockheedmartin.com::electrical engineer asc level 1": {
-   "id": "22c88b20de35",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "Electrical Engineer Asc - Level 1",
-   "locations": [
-    "Andover, MA"
-   ],
-   "level": "Junior",
-   "section": "hw",
-   "posted": "2026-10-23",
-   "added": "2026-10-23T11:34:44.000Z",
-   "url": "https://aplyr.ai/jobs/22c88b20de35/electrical-engineer-asc-level-1?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-23"
   },
@@ -242,6 +666,22 @@
    "url": "https://aplyr.ai/jobs/2980b845385f/rd-associate-engineer-electrical?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-23"
+  },
+  "jpmorganchase.com::security operations associate": {
+   "id": "7057798532ba",
+   "company": "JPMorgan Chase",
+   "companyUrl": "https://aplyr.ai/companies/jpmorganchase?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Security Operations Associate",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "level": "Junior",
+   "section": "swe",
+   "posted": "2026-10-23",
+   "added": "2026-10-24T11:16:47.000Z",
+   "url": "https://aplyr.ai/jobs/7057798532ba/security-operations-associate?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-24"
   },
   "lockheedmartin.com::software engineer ground systems intern": {
    "id": "d0c7d6b80be6",
@@ -286,9 +726,7 @@
    "title": "Software Engineer - Intern",
    "locations": [
     "Marietta, GA",
-    "Manassas, VA",
-    "Sunnyvale, CA",
-    "Littleton, CO"
+    "Manassas, VA"
    ],
    "level": "Intern",
    "section": "swe",
@@ -327,22 +765,6 @@
    "posted": "2026-10-22",
    "added": "2026-10-22T23:01:21.000Z",
    "url": "https://aplyr.ai/jobs/d1659293ee88/digital-technology-intern?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-23"
-  },
-  "lockheedmartin.com::cyber systems security engineering integrated watchfloor tier i ii": {
-   "id": "649ad22e2bf8",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "Cyber Systems Security Engineering - (Integrated Watchfloor Tier I / II)",
-   "locations": [
-    "Hanover, MD"
-   ],
-   "level": "Junior",
-   "section": "swe",
-   "posted": "2026-10-22",
-   "added": "2026-10-23T11:34:44.000Z",
-   "url": "https://aplyr.ai/jobs/649ad22e2bf8/cyber-systems-security-engineering-integrated-watchfloor-tier-i-ii?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-23"
   },
@@ -657,23 +1079,6 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-19"
   },
-  "abbvie.com::2027 validation engineer co op july dec undergraduate": {
-   "id": "7713c6ea48b0",
-   "company": "AbbVie",
-   "companyUrl": "https://aplyr.ai/companies/abbvie?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "2027 Validation Engineer Co-Op (July - Dec) (Undergraduate)",
-   "locations": [
-    "Worcester"
-   ],
-   "level": "Intern",
-   "section": "swe",
-   "posted": "2026-10-22",
-   "added": "2026-10-23T05:50:33.000Z",
-   "pay": "$23.1–41.6/hr",
-   "url": "https://aplyr.ai/jobs/7713c6ea48b0/2027-validation-engineer-co-op-july-dec-undergraduate?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-23"
-  },
   "microsoft.com::security research intern": {
    "id": "697deb02c7d9",
    "company": "Microsoft",
@@ -734,8 +1139,7 @@
    "locations": [
     "Sunnyvale, CA",
     "King of Prussia, PA",
-    "Littleton, CO",
-    "Fort Belvoir, VA"
+    "Littleton, CO"
    ],
    "level": "New grad",
    "section": "data",
@@ -827,22 +1231,6 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
-  "bms.com::associate quality control cell therapy": {
-   "id": "e64b73a26d84",
-   "company": "Bristol-Myers Squibb",
-   "companyUrl": "https://aplyr.ai/companies/bms?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "Associate, Quality Control, Cell Therapy",
-   "locations": [
-    "Bothell - WA - US"
-   ],
-   "level": "Junior",
-   "section": "swe",
-   "posted": "2026-10-22",
-   "added": "2026-10-23T09:45:31.000Z",
-   "url": "https://aplyr.ai/jobs/e64b73a26d84/associate-quality-control-cell-therapy?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-23"
-  },
   "hpe.com::asic engineering intern": {
    "id": "4bd9253a2a7d",
    "company": "HPE",
@@ -873,22 +1261,6 @@
    "posted": "2026-10-22",
    "added": "2026-10-23T09:30:48.000Z",
    "url": "https://aplyr.ai/jobs/cf83420695bb/electrical-hardware-engineering-intern?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-23"
-  },
-  "hpe.com::graduate electrical hdwr engineer i": {
-   "id": "1fc2558ffda0",
-   "company": "HPE",
-   "companyUrl": "https://aplyr.ai/companies/hpe?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "Graduate Electrical Hdwr Engineer I",
-   "locations": [
-    "Chippewa Falls, Wisconsin"
-   ],
-   "level": "New grad",
-   "section": "hw",
-   "posted": "2026-10-22",
-   "added": "2026-10-23T09:30:48.000Z",
-   "url": "https://aplyr.ai/jobs/1fc2558ffda0/graduate-electrical-hdwr-engineer-i?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-23"
   },
@@ -988,22 +1360,6 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-23"
   },
-  "northropgrumman.com::associate classified cybersecurity analyst secret": {
-   "id": "298ad0ec8cbf",
-   "company": "Northrop Grumman",
-   "companyUrl": "https://aplyr.ai/companies/northropgrumman?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "Associate Classified Cybersecurity Analyst - Secret",
-   "locations": [
-    "United States-Arizona-Chandler"
-   ],
-   "level": "Junior",
-   "section": "swe",
-   "posted": "2026-10-22",
-   "added": "2026-10-23T08:01:37.000Z",
-   "url": "https://aplyr.ai/jobs/298ad0ec8cbf/associate-classified-cybersecurity-analyst-secret?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-23"
-  },
   "northropgrumman.com::2027 cyber software engineer intern tampa fl": {
    "id": "a02d3eaa5dd5",
    "company": "Northrop Grumman",
@@ -1033,54 +1389,6 @@
    "posted": "2026-10-22",
    "added": "2026-10-23T08:01:37.000Z",
    "url": "https://aplyr.ai/jobs/394849f683f2/2027-systems-engineering-internship-ai-experience-dulles-va?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-23"
-  },
-  "northropgrumman.com::associate electronics engineer": {
-   "id": "c53348baaefe",
-   "company": "Northrop Grumman",
-   "companyUrl": "https://aplyr.ai/companies/northropgrumman?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "Associate Electronics Engineer",
-   "locations": [
-    "United States-Maryland-Baltimore"
-   ],
-   "level": "Junior",
-   "section": "hw",
-   "posted": "2026-10-22",
-   "added": "2026-10-23T08:01:37.000Z",
-   "url": "https://aplyr.ai/jobs/c53348baaefe/associate-electronics-engineer?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-23"
-  },
-  "rtx.com::quality engineer i onsite": {
-   "id": "7322d4ecdc7d",
-   "company": "RTX/Raytheon",
-   "companyUrl": "https://aplyr.ai/companies/rtx?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "Quality Engineer I (Onsite)",
-   "locations": [
-    "US-FL-MELBOURNE-311 ~ 1100 W Hibiscus Blvd ~ BLDG 311"
-   ],
-   "level": "Junior",
-   "section": "swe",
-   "posted": "2026-10-22",
-   "added": "2026-10-23T08:01:37.000Z",
-   "url": "https://aplyr.ai/jobs/7322d4ecdc7d/quality-engineer-i-onsite?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-23"
-  },
-  "rtx.com::electrical engineer i onsite": {
-   "id": "a31dcd8fe105",
-   "company": "RTX/Raytheon",
-   "companyUrl": "https://aplyr.ai/companies/rtx?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "Electrical Engineer I (Onsite)",
-   "locations": [
-    "US-KY-LOUISVILLE-102 ~ 6201 Strawberry Ln ~ STRAWBERRY"
-   ],
-   "level": "Junior",
-   "section": "hw",
-   "posted": "2026-10-22",
-   "added": "2026-10-23T08:01:37.000Z",
-   "url": "https://aplyr.ai/jobs/a31dcd8fe105/electrical-engineer-i-onsite?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-23"
   },
@@ -1397,8 +1705,7 @@
    "title": "Software Engineer Intern - Summer 2027",
    "locations": [
     "Huntsville, AL",
-    "King of Prussia, PA",
-    "Highlands Ranch, CO"
+    "King of Prussia, PA"
    ],
    "level": "Intern",
    "section": "swe",
@@ -1416,8 +1723,7 @@
    "locations": [
     "Huntsville, AL",
     "Marietta, GA",
-    "Herndon, VA",
-    "King of Prussia, PA"
+    "Herndon, VA"
    ],
    "level": "New grad",
    "section": "swe",
@@ -1472,22 +1778,6 @@
    "posted": "2026-10-22",
    "added": "2026-10-23T11:17:02.000Z",
    "url": "https://aplyr.ai/jobs/5ab4a00aff3a/2027-asset-management-data-scientist-summer-associate?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-23"
-  },
-  "jpmorganchase.com::global security technical security project manager associate": {
-   "id": "2985805d2602",
-   "company": "JPMorgan Chase",
-   "companyUrl": "https://aplyr.ai/companies/jpmorganchase?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "Global Security - Technical Security Project Manager - Associate",
-   "locations": [
-    "Columbus, OH"
-   ],
-   "level": "Junior",
-   "section": "swe",
-   "posted": "2026-10-22",
-   "added": "2026-10-23T11:17:02.000Z",
-   "url": "https://aplyr.ai/jobs/2985805d2602/global-security-technical-security-project-manager-associate?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-23"
   },
@@ -1605,22 +1895,6 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-22"
   },
-  "geappliancesco.com::digital technology spring 2027 intern": {
-   "id": "9b8f718b108b",
-   "company": "GE Appliances",
-   "companyUrl": "https://aplyr.ai/companies/geappliancesco?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "Digital Technology Spring 2027 Intern",
-   "locations": [
-    "USA, Louisville, KY"
-   ],
-   "level": "Intern",
-   "section": "swe",
-   "posted": "2026-10-21",
-   "added": "2026-10-21T22:50:56.000Z",
-   "url": "https://aplyr.ai/jobs/9b8f718b108b/digital-technology-spring-2027-intern?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-22"
-  },
   "jabil.com::it audit intern": {
    "id": "1da0f8099465",
    "company": "Jabil",
@@ -1670,42 +1944,6 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-22"
   },
-  "averydennison.com::associate product manager media solutions": {
-   "id": "1d41b31707f1",
-   "company": "Avery Dennison",
-   "companyUrl": "https://aplyr.ai/companies/averydennison?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "Associate Product Manager, Media Solutions",
-   "locations": [
-    "Little Rock"
-   ],
-   "remote": true,
-   "level": "Junior",
-   "section": "pm",
-   "posted": "2026-10-21",
-   "added": "2026-10-22T11:03:40.000Z",
-   "pay": "$82k–123k/yr",
-   "url": "https://aplyr.ai/jobs/1d41b31707f1/associate-product-manager-media-solutions?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-22"
-  },
-  "affirm.com::analyst early career full stack": {
-   "id": "7ea422e77d2f",
-   "company": "Affirm",
-   "companyUrl": "https://aplyr.ai/companies/affirm?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "Analyst, Early Career (Full Stack)",
-   "locations": [
-    "New York, New York",
-    "San Francisco, California"
-   ],
-   "level": "New grad",
-   "section": "swe",
-   "posted": "2026-10-21",
-   "added": "2026-10-22T05:01:40.000Z",
-   "pay": "$115k/yr",
-   "url": "https://aplyr.ai/jobs/7ea422e77d2f/analyst-early-career-full-stack?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-22"
-  },
   "lockheedmartin.com::program quality engineer asc e1": {
    "id": "fa0de1f5f371",
    "company": "Lockheed Martin",
@@ -1752,22 +1990,6 @@
    "added": "2026-10-22T07:45:25.000Z",
    "pay": "$18–27/hr",
    "url": "https://aplyr.ai/jobs/902fa99736dc/data-analytics-intern?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-22"
-  },
-  "rtx.com::manufacturing electrical engineer i onsite": {
-   "id": "6b73a4790553",
-   "company": "RTX/Raytheon",
-   "companyUrl": "https://aplyr.ai/companies/rtx?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "Manufacturing Electrical Engineer I (Onsite)",
-   "locations": [
-    "US-FL-MELBOURNE-308 ~ 1100 W Hibiscus Blvd ~ BLDG 308"
-   ],
-   "level": "Junior",
-   "section": "hw",
-   "posted": "2026-10-21",
-   "added": "2026-10-21T19:01:08.000Z",
-   "url": "https://aplyr.ai/jobs/6b73a4790553/manufacturing-electrical-engineer-i-onsite?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-22"
   },
@@ -2277,11 +2499,7 @@
    "title": "Software Engineer - E2",
    "locations": [
     "Highlands Ranch, CO",
-    "Littleton, CO",
-    "King of Prussia, PA",
-    "Fort Worth, TX",
-    "Palmdale, CA",
-    "Marietta, GA"
+    "Littleton, CO"
    ],
    "level": "Junior",
    "section": "swe",
@@ -2373,22 +2591,6 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-21"
   },
-  "gd.com::activity security representative asr i": {
-   "id": "edbd2f895583",
-   "company": "General Dynamics IT",
-   "companyUrl": "https://aplyr.ai/companies/gd?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "Activity Security Representative (ASR) I",
-   "locations": [
-    "USA OH Dayton"
-   ],
-   "level": "Junior",
-   "section": "swe",
-   "posted": "2026-10-20",
-   "added": "2026-10-20T20:20:40.000Z",
-   "url": "https://aplyr.ai/jobs/edbd2f895583/activity-security-representative-asr-i?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-21"
-  },
   "lockheedmartin.com::cyber software eng e2": {
    "id": "65046f04fe2a",
    "company": "Lockheed Martin",
@@ -2471,11 +2673,11 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-20"
   },
-  "magna.com::junior ai enigneer": {
+  "magna.com::junior ai engineer": {
    "id": "670ded79389d",
    "company": "Magna International",
    "companyUrl": "https://aplyr.ai/companies/magna?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "Junior AI Enigneer",
+   "title": "Junior AI Engineer",
    "locations": [
     "Troy, Michigan"
    ],
@@ -2483,9 +2685,9 @@
    "section": "data",
    "posted": "2026-10-20",
    "added": "2026-10-20T17:33:00.000Z",
-   "url": "https://aplyr.ai/jobs/670ded79389d/junior-ai-enigneer?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "url": "https://aplyr.ai/jobs/670ded79389d/junior-ai-engineer?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
    "sponsorsH1B": true,
-   "firstSeen": "2026-10-20"
+   "firstSeen": "2026-10-24"
   },
   "caci.com::electrical test engineering intern summer 2027": {
    "id": "ed1ff4ab9994",
@@ -2608,8 +2810,7 @@
    "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
    "title": "Information Systems Security Officer - E2 (Clearance Required)",
    "locations": [
-    "King of Prussia, PA",
-    "Littleton, CO"
+    "King of Prussia, PA"
    ],
    "level": "Junior",
    "section": "swe",
@@ -3424,8 +3625,7 @@
    "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
    "title": "Quality Engineer Associate",
    "locations": [
-    "Chelmsford, MA",
-    "Archbald, PA"
+    "Chelmsford, MA"
    ],
    "level": "Junior",
    "section": "swe",
@@ -3784,22 +3984,6 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
-  "lockheedmartin.com::radio frequency engineer asc e1": {
-   "id": "53c244fa80cf",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "Radio Frequency Engineer Asc - E1",
-   "locations": [
-    "Littleton, CO"
-   ],
-   "level": "Junior",
-   "section": "hw",
-   "posted": "2026-10-16",
-   "added": "2026-10-19T11:37:34.000Z",
-   "url": "https://aplyr.ai/jobs/53c244fa80cf/radio-frequency-engineer-asc-e1?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-19"
-  },
   "gilead.com::intern research clinical virology ai": {
    "id": "418b44ac5ac6",
    "company": "Gilead Sciences",
@@ -3833,22 +4017,6 @@
    "url": "https://aplyr.ai/jobs/91ac3a5e786d/aerospace-engineer-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
-  },
-  "lockheedmartin.com::mechanical engineer intern radio frequency rf product": {
-   "id": "54ab93d2ee1a",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "Mechanical Engineer Intern (Radio Frequency/RF Product)",
-   "locations": [
-    "Andover, MA"
-   ],
-   "level": "Intern",
-   "section": "hw",
-   "posted": "2026-10-16",
-   "added": "2026-10-19T11:37:34.000Z",
-   "url": "https://aplyr.ai/jobs/54ab93d2ee1a/mechanical-engineer-intern-radio-frequencyrf-product?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-19"
   },
   "tysonfoods.com::logistics modeling summer intern": {
    "id": "4f88e0da2bc9",
@@ -3900,6 +4068,23 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-18"
   },
+  "boozallen.com::university software engineer intern": {
+   "id": "288f78241222",
+   "company": "Booz Allen Hamilton",
+   "companyUrl": "https://aplyr.ai/companies/boozallen?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "University, Software Engineer Intern",
+   "locations": [
+    "Fayetteville, NC"
+   ],
+   "level": "Intern",
+   "section": "swe",
+   "posted": "2026-10-16",
+   "added": "2026-10-17T22:26:50.000Z",
+   "pay": "$53k–108k/yr",
+   "url": "https://aplyr.ai/jobs/288f78241222/university-software-engineer-intern?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17"
+  },
   "northropgrumman.com::mgr electronics engineering 1 ground systems intern development manager": {
    "id": "644d02276135",
    "company": "Northrop Grumman",
@@ -3916,22 +4101,6 @@
    "url": "https://aplyr.ai/jobs/644d02276135/mgr-electronics-engineering-1-ground-systems-intern-development-manager?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
-  },
-  "micron.com::intern dram customer enablement engineering": {
-   "id": "a86673e93018",
-   "company": "Micron",
-   "companyUrl": "https://aplyr.ai/companies/micron?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "Intern - DRAM Customer Enablement Engineering",
-   "locations": [
-    "Boise, ID - Main Site"
-   ],
-   "level": "Intern",
-   "section": "hw",
-   "posted": "2026-10-16",
-   "added": "2026-10-17T22:22:16.000Z",
-   "url": "https://aplyr.ai/jobs/a86673e93018/intern-dram-customer-enablement-engineering?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-18"
   },
   "micron.com::intern memory design engineer hbm": {
    "id": "e5582f31eef6",
@@ -4071,38 +4240,6 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
-  "lockheedmartin.com::environmental functional test asc": {
-   "id": "b32fca706014",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "Environmental & Functional Test Asc",
-   "locations": [
-    "Littleton, CO"
-   ],
-   "level": "Junior",
-   "section": "swe",
-   "posted": "2026-10-15",
-   "added": "2026-10-19T11:37:34.000Z",
-   "url": "https://aplyr.ai/jobs/b32fca706014/environmental-functional-test-asc?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-19"
-  },
-  "lockheedmartin.com::f 35 information system security officer luke afb az early career": {
-   "id": "0b638d6361e0",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "F-35 Information System Security Officer - Luke AFB, AZ (Early Career)",
-   "locations": [
-    "Luke AFB, AZ"
-   ],
-   "level": "Junior",
-   "section": "swe",
-   "posted": "2026-10-15",
-   "added": "2026-10-19T11:37:34.000Z",
-   "url": "https://aplyr.ai/jobs/0b638d6361e0/f-35-information-system-security-officer-luke-afb-az-early-career?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-19"
-  },
   "duolingo.com::data scientist intern phd": {
    "id": "db6edbe2ecfd",
    "company": "Duolingo",
@@ -4139,22 +4276,6 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
-  "lockheedmartin.com::test engineering intern": {
-   "id": "824c54be8f98",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "Test Engineering Intern",
-   "locations": [
-    "Owego, NY"
-   ],
-   "level": "Intern",
-   "section": "swe",
-   "posted": "2026-10-15",
-   "added": "2026-10-19T11:37:34.000Z",
-   "url": "https://aplyr.ai/jobs/824c54be8f98/test-engineering-intern?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-19"
-  },
   "lg.com::product manager assistant korean bilingual": {
    "id": "eaf6bcf62ebe",
    "company": "LG Electronics",
@@ -4169,23 +4290,6 @@
    "added": "2026-10-17T07:26:59.000Z",
    "pay": "$114k–119k/yr",
    "url": "https://aplyr.ai/jobs/eaf6bcf62ebe/product-manager-assistant-korean-bilingual?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-19"
-  },
-  "lockheedmartin.com::electrical engineer asc early career": {
-   "id": "cf9d97cc3bd4",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "Electrical Engineer Asc - Early Career",
-   "locations": [
-    "Littleton, CO",
-    "Vandenberg AFB, CA"
-   ],
-   "level": "Junior",
-   "section": "hw",
-   "posted": "2026-10-15",
-   "added": "2026-10-19T11:37:34.000Z",
-   "url": "https://aplyr.ai/jobs/cf9d97cc3bd4/electrical-engineer-asc-early-career?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-19"
   },
@@ -4371,22 +4475,6 @@
    "url": "https://aplyr.ai/jobs/ee02324e1b9e/product-management-mba-intern-laptop-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
-  },
-  "global.abb::quality engineering intern winter 2027": {
-   "id": "e90f7f435860",
-   "company": "ABB",
-   "companyUrl": "https://aplyr.ai/companies/global?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "Quality Engineering Intern-Winter 2027",
-   "locations": [
-    "Dorval, Quebec, Canada"
-   ],
-   "level": "Intern",
-   "section": "swe",
-   "posted": "2026-10-15",
-   "added": "2026-10-16T07:28:57.000Z",
-   "url": "https://aplyr.ai/jobs/e90f7f435860/quality-engineering-intern-winter-2027?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-19"
   },
   "entegris.com::engineer i electrical engineering": {
    "id": "afd6a238fb62",
@@ -4608,23 +4696,6 @@
    "added": "2026-10-17T22:26:50.000Z",
    "pay": "$120k–150k/yr",
    "url": "https://aplyr.ai/jobs/674264912a05/quantitative-risk-portfolio-analytics-associate?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-22"
-  },
-  "northropgrumman.com::pc network support tech 2 3 third shift secret": {
-   "id": "2e5e4fa6d6a6",
-   "company": "Northrop Grumman",
-   "companyUrl": "https://aplyr.ai/companies/northropgrumman?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "PC Network Support Tech 2 / 3 - Third Shift - Secret",
-   "locations": [
-    "United States-California-Palmdale"
-   ],
-   "level": "Junior",
-   "section": "swe",
-   "posted": "2026-10-15",
-   "added": "2026-10-17T22:25:12.000Z",
-   "pay": "$51k–102k/yr",
-   "url": "https://aplyr.ai/jobs/2e5e4fa6d6a6/pc-network-support-tech-2-3-third-shift-secret?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-22"
   },
@@ -4873,6 +4944,23 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-18"
   },
+  "db.com::production support associate": {
+   "id": "379a0bcb86e9",
+   "company": "Deutsche Bank",
+   "companyUrl": "https://aplyr.ai/companies/db?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Production Support Associate",
+   "locations": [
+    "Arlington, 901 N. Glebe Road"
+   ],
+   "level": "Junior",
+   "section": "swe",
+   "posted": "2026-10-15",
+   "added": "2026-10-16T06:52:56.000Z",
+   "pay": "$102k–130k/yr",
+   "url": "https://aplyr.ai/jobs/379a0bcb86e9/production-support-associate?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-24"
+  },
   "gd.com::network security engineer junior": {
    "id": "fc18fdaab334",
    "company": "General Dynamics IT",
@@ -4888,54 +4976,6 @@
    "url": "https://aplyr.ai/jobs/fc18fdaab334/network-security-engineer-junior?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
-  },
-  "lockheedmartin.com::radio frequency engineer early career": {
-   "id": "b8a10b12ba2f",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "Radio Frequency Engineer - Early Career",
-   "locations": [
-    "Littleton, CO"
-   ],
-   "level": "New grad",
-   "section": "hw",
-   "posted": "2026-10-14",
-   "added": "2026-10-19T11:37:34.000Z",
-   "url": "https://aplyr.ai/jobs/b8a10b12ba2f/radio-frequency-engineer-early-career?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-23"
-  },
-  "lockheedmartin.com::production test engineer ate early career": {
-   "id": "b2a5fe8966fa",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "Production Test Engineer (ATE) - Early Career",
-   "locations": [
-    "Troy, AL"
-   ],
-   "level": "New grad",
-   "section": "hw",
-   "posted": "2026-10-14",
-   "added": "2026-10-19T11:37:34.000Z",
-   "url": "https://aplyr.ai/jobs/b2a5fe8966fa/production-test-engineer-ate-early-career?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-23"
-  },
-  "lockheedmartin.com::systems integration test engineer associate e1": {
-   "id": "b42d1ebd2fe1",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "Systems Integration/Test Engineer Associate - E1",
-   "locations": [
-    "Grand Prairie, TX"
-   ],
-   "level": "Junior",
-   "section": "hw",
-   "posted": "2026-10-14",
-   "added": "2026-10-19T11:37:34.000Z",
-   "url": "https://aplyr.ai/jobs/b42d1ebd2fe1/systems-integrationtest-engineer-associate-e1?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-23"
   },
   "businessolver.com::business intelligence analyst internship innovation data science": {
    "id": "0f9fc108ab3f",
@@ -4971,22 +5011,6 @@
    "url": "https://aplyr.ai/jobs/05803025379a/hardware-systems-integration-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
-  },
-  "lockheedmartin.com::harness design engineer asc early career": {
-   "id": "c369a82357fa",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "Harness Design Engineer Asc - Early Career",
-   "locations": [
-    "Marietta, GA"
-   ],
-   "level": "Junior",
-   "section": "hw",
-   "posted": "2026-10-14",
-   "added": "2026-10-19T11:37:34.000Z",
-   "url": "https://aplyr.ai/jobs/c369a82357fa/harness-design-engineer-asc-early-career?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-23"
   },
   "point72.com::2027 summer internship software engineer": {
    "id": "8bb0e448f60b",
@@ -5038,23 +5062,6 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-23"
   },
-  "lockheedmartin.com::a ai research engineer early career": {
-   "id": "fb09fba95f41",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "A/AI Research Engineer - Early Career",
-   "locations": [
-    "King of Prussia, PA",
-    "Littleton, CO"
-   ],
-   "level": "New grad",
-   "section": "data",
-   "posted": "2026-10-14",
-   "added": "2026-10-19T11:37:34.000Z",
-   "url": "https://aplyr.ai/jobs/fb09fba95f41/aai-research-engineer-early-career?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-23"
-  },
   "cadence.com::cst application engineer intern systems atx": {
    "id": "ea9d2463a38e",
    "company": "Cadence Design Systems",
@@ -5088,6 +5095,56 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-18"
   },
+  "northropgrumman.com::electronics engineer 2": {
+   "id": "29bc0383ccc8",
+   "company": "Northrop Grumman",
+   "companyUrl": "https://aplyr.ai/companies/northropgrumman?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Electronics Engineer - 2",
+   "locations": [
+    "United States-Arizona-Chandler"
+   ],
+   "level": "Junior",
+   "section": "hw",
+   "posted": "2026-10-14",
+   "added": "2026-10-17T22:25:12.000Z",
+   "url": "https://aplyr.ai/jobs/29bc0383ccc8/electronics-engineer-2?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-24"
+  },
+  "rtx.com::rf systems engineer i onsite": {
+   "id": "cff8964b8c23",
+   "company": "RTX/Raytheon",
+   "companyUrl": "https://aplyr.ai/companies/rtx?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "RF Systems Engineer I - Onsite",
+   "locations": [
+    "US-IN-FT WAYNE-150A ~ 1010 Production Rd ~ BLDG 150A",
+    "US-CA-EL SEGUNDO-E01 ~ 2000 E El Segundo Blvd ~ BLDG E01",
+    "US-CA-GOLETA-H01 ~ 6380 Hollister Ave ~ BLDG H01"
+   ],
+   "level": "Junior",
+   "section": "hw",
+   "posted": "2026-10-14",
+   "added": "2026-10-17T22:25:12.000Z",
+   "url": "https://aplyr.ai/jobs/cff8964b8c23/rf-systems-engineer-i-onsite?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-24"
+  },
+  "rtx.com::electrical engineer i onsite": {
+   "id": "1f51165dadea",
+   "company": "RTX/Raytheon",
+   "companyUrl": "https://aplyr.ai/companies/rtx?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Electrical Engineer I - (Onsite)",
+   "locations": [
+    "US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805"
+   ],
+   "level": "Junior",
+   "section": "hw",
+   "posted": "2026-10-14",
+   "added": "2026-10-17T22:25:12.000Z",
+   "url": "https://aplyr.ai/jobs/1f51165dadea/electrical-engineer-i-onsite?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-23"
+  },
   "washu.edu::data analyst emergency management intern prn enterprise physical operations": {
    "id": "f13ee44362ed",
    "company": "Wash U",
@@ -5100,7 +5157,7 @@
    "section": "data",
    "posted": "2026-10-14",
    "added": "2026-10-16T05:24:34.000Z",
-   "pay": "$17–25/hr",
+   "pay": "$17.03–24.61/hr",
    "url": "https://aplyr.ai/jobs/f13ee44362ed/data-analyst-emergency-management-intern-prn-enterprise-physical-operations?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -5134,6 +5191,7 @@
    "section": "swe",
    "posted": "2026-10-14",
    "added": "2026-10-15T08:01:52.000Z",
+   "pay": "$78k–106k/yr",
    "url": "https://aplyr.ai/jobs/c941bed9867c/entry-level-flight-simulation-software-engineer?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -5151,22 +5209,6 @@
    "posted": "2026-10-14",
    "added": "2026-10-16T07:41:32.000Z",
    "url": "https://aplyr.ai/jobs/25c22dac6ade/data-analytics-intern?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
-  },
-  "nissan-global.com::people analytics intern summer 2027 franklin tn": {
-   "id": "0cc1a9a3bb27",
-   "company": "Nissan Global",
-   "companyUrl": "https://aplyr.ai/companies/nissan-global?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "People Analytics Intern - Summer 2027 - Franklin, TN",
-   "locations": [
-    "Franklin, Tennessee - United States of America"
-   ],
-   "level": "Intern",
-   "section": "data",
-   "posted": "2026-10-14",
-   "added": "2026-10-15T07:41:45.000Z",
-   "url": "https://aplyr.ai/jobs/0cc1a9a3bb27/people-analytics-intern-summer-2027-franklin-tn?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
@@ -5202,22 +5244,6 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
-  "nissan-global.com::computational material science intern spring 2027 santa clara ca": {
-   "id": "a458621c55fc",
-   "company": "Nissan Global",
-   "companyUrl": "https://aplyr.ai/companies/nissan-global?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "Computational Material Science Intern - Spring 2027 - Santa Clara, CA",
-   "locations": [
-    "Santa Clara, California - United States of America"
-   ],
-   "level": "Intern",
-   "section": "swe",
-   "posted": "2026-10-14",
-   "added": "2026-10-15T07:41:45.000Z",
-   "url": "https://aplyr.ai/jobs/a458621c55fc/computational-material-science-intern-spring-2027-santa-clara-ca?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
-  },
   "nissan-global.com::ai robotics research intern summer 2027 santa clara ca": {
    "id": "0ee292c1b87a",
    "company": "Nissan Global",
@@ -5234,21 +5260,21 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
-  "jll.com::real estate advisory and consulting summer 2027 internship washington dc": {
-   "id": "6d85869d9053",
-   "company": "JLL",
-   "companyUrl": "https://aplyr.ai/companies/jll?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "Real Estate Advisory and Consulting Summer 2027 Internship - Washington, DC",
+  "micron.com::new college grad embedded firmware engineer": {
+   "id": "337139358cd8",
+   "company": "Micron",
+   "companyUrl": "https://aplyr.ai/companies/micron?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "New College Grad - Embedded Firmware Engineer",
    "locations": [
-    "Washington, DC"
+    "Boise, ID - SIG Building"
    ],
-   "level": "Intern",
-   "section": "data",
+   "level": "New grad",
+   "section": "swe",
    "posted": "2026-10-14",
-   "added": "2026-10-14T07:01:51.000Z",
-   "url": "https://aplyr.ai/jobs/6d85869d9053/real-estate-advisory-and-consulting-summer-2027-internship-washington-dc?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "added": "2026-10-15T07:19:59.000Z",
+   "url": "https://aplyr.ai/jobs/337139358cd8/new-college-grad-embedded-firmware-engineer?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
    "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
+   "firstSeen": "2026-10-24"
   },
   "borgwarner.com::it service desk intern year round": {
    "id": "a2fb5b00f2a1",
@@ -5265,6 +5291,38 @@
    "url": "https://aplyr.ai/jobs/a2fb5b00f2a1/it-service-desk-intern-year-round?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
+  },
+  "sanofi.com::audit data analytics intern": {
+   "id": "4f1974518e65",
+   "company": "Sanofi",
+   "companyUrl": "https://aplyr.ai/companies/sanofi?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Audit Data Analytics Intern",
+   "locations": [
+    "City of Singapore"
+   ],
+   "level": "Intern",
+   "section": "data",
+   "posted": "2026-10-14",
+   "added": "2026-10-14T05:48:03.000Z",
+   "url": "https://aplyr.ai/jobs/4f1974518e65/audit-data-analytics-intern?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-24"
+  },
+  "labcorp.com::assoc data analyst": {
+   "id": "1a851de76d0a",
+   "company": "Labcorp",
+   "companyUrl": "https://aplyr.ai/companies/labcorp?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Assoc Data Analyst",
+   "locations": [
+    "Bengaluru India"
+   ],
+   "level": "Junior",
+   "section": "data",
+   "posted": "2026-10-14",
+   "added": "2026-10-13T05:46:57.000Z",
+   "url": "https://aplyr.ai/jobs/1a851de76d0a/assoc-data-analyst?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-19"
   },
   "blueorigin.com::summer 2027 marine mechanical test engineering internship undergraduate": {
    "id": "ed1fc28e9ba3",
@@ -5636,39 +5694,6 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
-  "lockheedmartin.com::software engineering intern": {
-   "id": "7ba88e5820cb",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "Software Engineering Intern",
-   "locations": [
-    "King of Prussia, PA"
-   ],
-   "level": "Intern",
-   "section": "swe",
-   "posted": "2026-10-13",
-   "added": "2026-10-19T11:37:34.000Z",
-   "url": "https://aplyr.ai/jobs/7ba88e5820cb/software-engineering-intern?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-19"
-  },
-  "lockheedmartin.com::cyber systems security engineering entry level": {
-   "id": "62e58fae5054",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "Cyber Systems Security Engineering Entry Level",
-   "locations": [
-    "Huntsville, AL",
-    "Littleton, CO"
-   ],
-   "level": "New grad",
-   "section": "swe",
-   "posted": "2026-10-13",
-   "added": "2026-10-19T11:37:34.000Z",
-   "url": "https://aplyr.ai/jobs/62e58fae5054/cyber-systems-security-engineering-entry-level?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-19"
-  },
   "boeing.com::entry level software engineer developer": {
    "id": "592e1e3c72d8",
    "company": "Boeing",
@@ -5682,22 +5707,6 @@
    "posted": "2026-10-13",
    "added": "2026-10-19T18:50:56.000Z",
    "url": "https://aplyr.ai/jobs/592e1e3c72d8/entry-level-software-engineerdeveloper?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-19"
-  },
-  "lockheedmartin.com::systems integration electrical test engineer intern": {
-   "id": "8ecf7f3e67e4",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "Systems Integration/Electrical Test Engineer-INTERN",
-   "locations": [
-    "Cape Canaveral, FL"
-   ],
-   "level": "Intern",
-   "section": "swe",
-   "posted": "2026-10-13",
-   "added": "2026-10-19T11:37:34.000Z",
-   "url": "https://aplyr.ai/jobs/8ecf7f3e67e4/systems-integrationelectrical-test-engineer-intern?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-19"
   },
@@ -5717,22 +5726,6 @@
    "url": "https://aplyr.ai/jobs/379416ced2bf/phd-intern-software-engineer-graphics-2027?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
-  },
-  "lockheedmartin.com::security administrator entry level": {
-   "id": "da25fb21338b",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "Security Administrator - Entry Level",
-   "locations": [
-    "Fort Worth, TX"
-   ],
-   "level": "New grad",
-   "section": "swe",
-   "posted": "2026-10-13",
-   "added": "2026-10-19T11:37:34.000Z",
-   "url": "https://aplyr.ai/jobs/da25fb21338b/security-administrator-entry-level?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-19"
   },
   "roberthalf.com::philadelphia internal audit and financial advisory intern 2027": {
    "id": "f4c8e26c3b16",
@@ -5763,6 +5756,22 @@
    "posted": "2026-10-13",
    "added": "2026-10-17T22:44:43.000Z",
    "url": "https://aplyr.ai/jobs/afad00dc1f7e/san-francisco-internal-audit-and-financial-advisory-intern-2027?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17"
+  },
+  "kla.com::software engineer intern ai": {
+   "id": "4dbb8d2ff218",
+   "company": "KLA Corporation",
+   "companyUrl": "https://aplyr.ai/companies/kla?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Software Engineer Intern - AI",
+   "locations": [
+    "Ann Arbor, MI"
+   ],
+   "level": "Intern",
+   "section": "swe",
+   "posted": "2026-10-13",
+   "added": "2026-10-17T22:24:25.000Z",
+   "url": "https://aplyr.ai/jobs/4dbb8d2ff218/software-engineer-intern-ai?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
@@ -7011,22 +7020,6 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
-  "lockheedmartin.com::predictive analytics cost engineering intern": {
-   "id": "14b7de20c031",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "Predictive Analytics & Cost Engineering Intern",
-   "locations": [
-    "Littleton, CO"
-   ],
-   "level": "Intern",
-   "section": "data",
-   "posted": "2026-10-09",
-   "added": "2026-10-19T11:37:34.000Z",
-   "url": "https://aplyr.ai/jobs/14b7de20c031/predictive-analytics-cost-engineering-intern?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-19"
-  },
   "affirm.com::it engineer intern early careers summer 2027": {
    "id": "1eea3d0d26ff",
    "company": "Affirm",
@@ -7111,11 +7104,11 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
-  "gm.com::2027 summer intern onboard autonomy embodied ai": {
+  "gm.com::2027 summer intern onboard autonomy embodied ai phd": {
    "id": "8513c7478beb",
    "company": "General Motors",
    "companyUrl": "https://aplyr.ai/companies/gm?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "2027 Summer Intern, Onboard Autonomy, Embodied AI",
+   "title": "2027 Summer Intern, Onboard Autonomy, Embodied AI (PhD)",
    "locations": [
     "Sunnyvale, California"
    ],
@@ -7124,9 +7117,9 @@
    "posted": "2026-10-09",
    "added": "2026-10-11T09:00:41.000Z",
    "pay": "$11,800–14,600/mo",
-   "url": "https://aplyr.ai/jobs/8513c7478beb/2027-summer-intern-onboard-autonomy-embodied-ai?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "url": "https://aplyr.ai/jobs/8513c7478beb/2027-summer-intern-onboard-autonomy-embodied-ai-phd?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
    "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
+   "firstSeen": "2026-10-24"
   },
   "gm.com::2027 summer intern seam embodied ai phd": {
    "id": "56948956a1bc",
@@ -7176,6 +7169,39 @@
    "added": "2026-10-11T08:45:37.000Z",
    "pay": "$53k–108k/yr",
    "url": "https://aplyr.ai/jobs/57a83fc698f4/modeling-and-simulation-engineer-junior?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17"
+  },
+  "itron.com::intern people analytics summer 2027": {
+   "id": "804a6c70e4c6",
+   "company": "Itron",
+   "companyUrl": "https://aplyr.ai/companies/itron?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Intern - People Analytics (Summer 2027)",
+   "locations": [
+    "United States of America, Washington, Liberty Lake"
+   ],
+   "level": "Intern",
+   "section": "data",
+   "posted": "2026-10-09",
+   "added": "2026-10-10T07:46:00.000Z",
+   "pay": "$128k–214k/yr",
+   "url": "https://aplyr.ai/jobs/804a6c70e4c6/intern-people-analytics-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17"
+  },
+  "itron.com::intern hr ai data science summer 2027": {
+   "id": "cd636307ad48",
+   "company": "Itron",
+   "companyUrl": "https://aplyr.ai/companies/itron?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Intern - HR AI Data Science (Summer 2027)",
+   "locations": [
+    "United States of America, Texas, Austin"
+   ],
+   "level": "Intern",
+   "section": "data",
+   "posted": "2026-10-09",
+   "added": "2026-10-10T07:46:00.000Z",
+   "url": "https://aplyr.ai/jobs/cd636307ad48/intern-hr-ai-data-science-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
@@ -7330,22 +7356,6 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
-  "boozallen.com::ai software developer junior": {
-   "id": "61952fbf1000",
-   "company": "Booz Allen Hamilton",
-   "companyUrl": "https://aplyr.ai/companies/boozallen?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "AI Software Developer, Junior",
-   "locations": [
-    "San Diego, CA"
-   ],
-   "level": "Junior",
-   "section": "swe",
-   "posted": "2026-10-08",
-   "added": "2026-10-17T22:26:50.000Z",
-   "url": "https://aplyr.ai/jobs/61952fbf1000/ai-software-developer-junior?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
-  },
   "leidos.com::systems integration and software engineer intern": {
    "id": "dd958ee9e88e",
    "company": "Leidos",
@@ -7361,39 +7371,6 @@
    "url": "https://aplyr.ai/jobs/dd958ee9e88e/systems-integration-and-software-engineer-intern?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
-  },
-  "lockheedmartin.com::ai ml engineering intern summer 2027": {
-   "id": "143ffd93285c",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "AI/ML Engineering Intern - Summer 2027",
-   "locations": [
-    "King of Prussia, PA",
-    "Littleton, CO"
-   ],
-   "level": "Intern",
-   "section": "data",
-   "posted": "2026-10-08",
-   "added": "2026-10-19T11:37:34.000Z",
-   "url": "https://aplyr.ai/jobs/143ffd93285c/aiml-engineering-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-19"
-  },
-  "lockheedmartin.com::database engineer entry level": {
-   "id": "67a60e3b70cb",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "Database Engineer - Entry Level",
-   "locations": [
-    "Annapolis Junction, MD"
-   ],
-   "level": "New grad",
-   "section": "data",
-   "posted": "2026-10-08",
-   "added": "2026-10-19T11:37:34.000Z",
-   "url": "https://aplyr.ai/jobs/67a60e3b70cb/database-engineer-entry-level?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-19"
   },
   "waymo.com::2027 summer intern phd research world modeling evaluation": {
    "id": "2ee790374ec9",
@@ -7429,23 +7406,6 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
-  "lockheedmartin.com::college student full stack software engineer intern": {
-   "id": "f4b09e69bc7f",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "College Student - Full-Stack Software Engineer Intern",
-   "locations": [
-    "Palmdale, CA",
-    "Fort Worth, TX"
-   ],
-   "level": "Intern",
-   "section": "swe",
-   "posted": "2026-10-08",
-   "added": "2026-10-19T11:37:34.000Z",
-   "url": "https://aplyr.ai/jobs/f4b09e69bc7f/college-student-full-stack-software-engineer-intern?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-19"
-  },
   "imc.com::machine learning engineer intern summer 2027": {
    "id": "8900e8fba455",
    "company": "IMC Trading",
@@ -7462,23 +7422,6 @@
    "url": "https://aplyr.ai/jobs/8900e8fba455/machine-learning-engineer-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
-  },
-  "lockheedmartin.com::ai ml engineering intern": {
-   "id": "91931d672f68",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "AI/ML Engineering Intern",
-   "locations": [
-    "King of Prussia, PA",
-    "Moorestown, NJ"
-   ],
-   "level": "Intern",
-   "section": "data",
-   "posted": "2026-10-08",
-   "added": "2026-10-19T11:37:34.000Z",
-   "url": "https://aplyr.ai/jobs/91931d672f68/aiml-engineering-intern?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-19"
   },
   "roblox.com::2027 data scientist phd intern": {
    "id": "a1d0434b425c",
@@ -7513,22 +7456,6 @@
    "url": "https://aplyr.ai/jobs/b4910366633c/2027-applied-scientist-phd-intern?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
-  },
-  "lockheedmartin.com::systems integration and test engineer intern": {
-   "id": "5d72b97cdf36",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "Systems Integration and Test Engineer Intern",
-   "locations": [
-    "Chelmsford, MA"
-   ],
-   "level": "Intern",
-   "section": "swe",
-   "posted": "2026-10-08",
-   "added": "2026-10-19T11:37:34.000Z",
-   "url": "https://aplyr.ai/jobs/5d72b97cdf36/systems-integration-and-test-engineer-intern?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-19"
   },
   "deltadental.com::internship government programs network": {
    "id": "247e41960af7",
@@ -7892,22 +7819,6 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
-  "lockheedmartin.com::software engineer cyber intern": {
-   "id": "674c647b4108",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "Software Engineer (Cyber) - Intern",
-   "locations": [
-    "Hanover, MD"
-   ],
-   "level": "Intern",
-   "section": "swe",
-   "posted": "2026-10-07",
-   "added": "2026-10-19T11:37:34.000Z",
-   "url": "https://aplyr.ai/jobs/674c647b4108/software-engineer-cyber-intern?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-19"
-  },
   "waymo.com::2027 summer intern ms phd perception robotics": {
    "id": "31973eea3822",
    "company": "Waymo",
@@ -8150,11 +8061,11 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
-  "faire.com::applied ai ml scientist intern": {
+  "faire.com::applied ai ml scientist intern winter 2027": {
    "id": "ec8eab005153",
    "company": "Faire",
    "companyUrl": "https://aplyr.ai/companies/faire?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "Applied AI/ML Scientist, Intern",
+   "title": "Applied AI/ML Scientist, Intern - Winter 2027",
    "locations": [
     "San Francisco, CA"
    ],
@@ -8163,9 +8074,9 @@
    "posted": "2026-10-06",
    "added": "2026-10-10T05:46:18.000Z",
    "pay": "$23.06–34.56/hr",
-   "url": "https://aplyr.ai/jobs/ec8eab005153/applied-aiml-scientist-intern?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "url": "https://aplyr.ai/jobs/ec8eab005153/applied-aiml-scientist-intern-winter-2027?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
    "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
+   "firstSeen": "2026-10-24"
   },
   "lyft.com::phd machine learning software engineer intern summer 2027": {
    "id": "924f3502b9a0",
@@ -8315,9 +8226,903 @@
    "url": "https://aplyr.ai/jobs/e77befa2de59/ai-engineering-business-systems-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-18"
+  },
+  "f5.com::software development engineer intern seattle wa": {
+   "id": "15e1d2b886a8",
+   "company": "F5 Networks",
+   "companyUrl": "https://aplyr.ai/companies/f5?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Software Development Engineer Intern (Seattle, WA)",
+   "locations": [
+    "Seattle"
+   ],
+   "level": "Intern",
+   "section": "swe",
+   "posted": "2026-10-06",
+   "added": "2026-10-17T22:44:43.000Z",
+   "url": "https://aplyr.ai/jobs/15e1d2b886a8/software-development-engineer-intern-seattle-wa?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-24"
+  },
+  "f5.com::software development engineer intern san jose ca": {
+   "id": "f71a22b565e6",
+   "company": "F5 Networks",
+   "companyUrl": "https://aplyr.ai/companies/f5?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Software Development Engineer Intern (San Jose, CA)",
+   "locations": [
+    "San Jose"
+   ],
+   "level": "Intern",
+   "section": "swe",
+   "posted": "2026-10-06",
+   "added": "2026-10-17T22:44:43.000Z",
+   "url": "https://aplyr.ai/jobs/f71a22b565e6/software-development-engineer-intern-san-jose-ca?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-24"
+  },
+  "rtx.com::fpga engineering intern summer 2027 onsite": {
+   "id": "84dde9a9ba28",
+   "company": "RTX/Raytheon",
+   "companyUrl": "https://aplyr.ai/companies/rtx?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "FPGA Engineering Intern (Summer 2027)(Onsite)",
+   "locations": [
+    "US-TX-MCKINNEY-513WD ~ 2501 W University Dr ~ WING D BLDG"
+   ],
+   "level": "Intern",
+   "section": "hw",
+   "posted": "2026-10-06",
+   "added": "2026-10-17T22:25:12.000Z",
+   "url": "https://aplyr.ai/jobs/84dde9a9ba28/fpga-engineering-intern-summer-2027onsite?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-24"
+  },
+  "id.me::software engineer ii developer portal new grad early career": {
+   "id": "f96eaf04b6ab",
+   "company": "ID.me",
+   "companyUrl": "https://aplyr.ai/companies/id?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Software Engineer II, Developer Portal (New Grad / Early Career)",
+   "locations": [
+    "Mountain View, California"
+   ],
+   "level": "New grad",
+   "section": "swe",
+   "posted": "2026-10-05",
+   "added": "2026-10-06T06:15:41.000Z",
+   "pay": "$122k–157k/yr",
+   "url": "https://aplyr.ai/jobs/f96eaf04b6ab/software-engineer-ii-developer-portal-new-grad-early-career?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-24"
+  },
+  "semtech.com::ai workflow operations intern": {
+   "id": "a1174eabb7f6",
+   "company": "Semtech",
+   "companyUrl": "https://aplyr.ai/companies/semtech?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "AI Workflow & Operations Intern",
+   "locations": [
+    "CAN - Richmond, BC"
+   ],
+   "level": "Intern",
+   "section": "data",
+   "posted": "2026-10-05",
+   "added": "2026-10-17T22:44:43.000Z",
+   "url": "https://aplyr.ai/jobs/a1174eabb7f6/ai-workflow-operations-intern?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-24"
   }
  },
  "closed": {
+  "blackrock.com::unified communications operations associate princeton": {
+   "id": "b2ffeeb98991",
+   "company": "BlackRock",
+   "companyUrl": "https://aplyr.ai/companies/blackrock?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Unified Communications Operations, Associate - Princeton",
+   "locations": [
+    "Princeton, NJ"
+   ],
+   "level": "Junior",
+   "section": "swe",
+   "posted": "2026-10-23",
+   "added": "2026-10-23T17:40:39.000Z",
+   "url": "https://aplyr.ai/jobs/b2ffeeb98991/unified-communications-operations-associate-princeton?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-23",
+   "closedAt": "2026-10-24"
+  },
+  "appliedmaterials.com::2027 software engineer new college grad bachelor s gloucester ma": {
+   "id": "cc3a5afda909",
+   "company": "Applied Materials",
+   "companyUrl": "https://aplyr.ai/companies/appliedmaterials?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "2027 Software Engineer New College Grad (Bachelor's) - Gloucester, MA",
+   "locations": [
+    "Gloucester,MA"
+   ],
+   "level": "New grad",
+   "section": "swe",
+   "posted": "2026-10-23",
+   "added": "2026-10-23T12:30:21.000Z",
+   "url": "https://aplyr.ai/jobs/cc3a5afda909/2027-software-engineer-new-college-grad-bachelors-gloucester-ma?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-23",
+   "closedAt": "2026-10-24"
+  },
+  "sanofi.com::2027 spring co op process and cmc data science waltham ma": {
+   "id": "9872a251d775",
+   "company": "Sanofi",
+   "companyUrl": "https://aplyr.ai/companies/sanofi?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "2027 Spring Co op Process and CMC Data Science Waltham MA",
+   "locations": [
+    "Waltham, MA"
+   ],
+   "level": "Intern",
+   "section": "data",
+   "posted": "2026-10-23",
+   "added": "2026-10-23T05:47:31.000Z",
+   "url": "https://aplyr.ai/jobs/9872a251d775/2027-spring-co-op-process-and-cmc-data-science-waltham-ma?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-23",
+   "closedAt": "2026-10-24"
+  },
+  "nvidia.com::silicon co design engineer new college grad 2026": {
+   "id": "888b1e401605",
+   "company": "NVIDIA",
+   "companyUrl": "https://aplyr.ai/companies/nvidia?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Silicon Co-Design Engineer - New College Grad 2026",
+   "locations": [
+    "US, CA, Santa Clara"
+   ],
+   "level": "New grad",
+   "section": "hw",
+   "posted": "2026-10-23",
+   "added": "2026-10-23T05:16:50.000Z",
+   "url": "https://aplyr.ai/jobs/888b1e401605/silicon-co-design-engineer-new-college-grad-2026?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-23",
+   "closedAt": "2026-10-24"
+  },
+  "abbvie.com::2027 validation engineer co op july dec undergraduate": {
+   "id": "7713c6ea48b0",
+   "company": "AbbVie",
+   "companyUrl": "https://aplyr.ai/companies/abbvie?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "2027 Validation Engineer Co-Op (July - Dec) (Undergraduate)",
+   "locations": [
+    "Worcester"
+   ],
+   "level": "Intern",
+   "section": "swe",
+   "posted": "2026-10-22",
+   "added": "2026-10-23T05:50:33.000Z",
+   "pay": "$23.1–41.6/hr",
+   "url": "https://aplyr.ai/jobs/7713c6ea48b0/2027-validation-engineer-co-op-july-dec-undergraduate?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-23",
+   "closedAt": "2026-10-24"
+  },
+  "bms.com::associate quality control cell therapy": {
+   "id": "e64b73a26d84",
+   "company": "Bristol-Myers Squibb",
+   "companyUrl": "https://aplyr.ai/companies/bms?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Associate, Quality Control, Cell Therapy",
+   "locations": [
+    "Bothell - WA - US"
+   ],
+   "level": "Junior",
+   "section": "swe",
+   "posted": "2026-10-22",
+   "added": "2026-10-23T09:45:31.000Z",
+   "url": "https://aplyr.ai/jobs/e64b73a26d84/associate-quality-control-cell-therapy?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-23",
+   "closedAt": "2026-10-24"
+  },
+  "hpe.com::graduate electrical hdwr engineer i": {
+   "id": "1fc2558ffda0",
+   "company": "HPE",
+   "companyUrl": "https://aplyr.ai/companies/hpe?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Graduate Electrical Hdwr Engineer I",
+   "locations": [
+    "Chippewa Falls, Wisconsin"
+   ],
+   "level": "New grad",
+   "section": "hw",
+   "posted": "2026-10-22",
+   "added": "2026-10-23T09:30:48.000Z",
+   "url": "https://aplyr.ai/jobs/1fc2558ffda0/graduate-electrical-hdwr-engineer-i?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-23",
+   "closedAt": "2026-10-24"
+  },
+  "northropgrumman.com::associate classified cybersecurity analyst secret": {
+   "id": "298ad0ec8cbf",
+   "company": "Northrop Grumman",
+   "companyUrl": "https://aplyr.ai/companies/northropgrumman?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Associate Classified Cybersecurity Analyst - Secret",
+   "locations": [
+    "United States-Arizona-Chandler"
+   ],
+   "level": "Junior",
+   "section": "swe",
+   "posted": "2026-10-22",
+   "added": "2026-10-23T08:01:37.000Z",
+   "url": "https://aplyr.ai/jobs/298ad0ec8cbf/associate-classified-cybersecurity-analyst-secret?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-23",
+   "closedAt": "2026-10-24"
+  },
+  "northropgrumman.com::associate electronics engineer": {
+   "id": "c53348baaefe",
+   "company": "Northrop Grumman",
+   "companyUrl": "https://aplyr.ai/companies/northropgrumman?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Associate Electronics Engineer",
+   "locations": [
+    "United States-Maryland-Baltimore"
+   ],
+   "level": "Junior",
+   "section": "hw",
+   "posted": "2026-10-22",
+   "added": "2026-10-23T08:01:37.000Z",
+   "url": "https://aplyr.ai/jobs/c53348baaefe/associate-electronics-engineer?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-23",
+   "closedAt": "2026-10-24"
+  },
+  "rtx.com::quality engineer i onsite": {
+   "id": "7322d4ecdc7d",
+   "company": "RTX/Raytheon",
+   "companyUrl": "https://aplyr.ai/companies/rtx?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Quality Engineer I (Onsite)",
+   "locations": [
+    "US-FL-MELBOURNE-311 ~ 1100 W Hibiscus Blvd ~ BLDG 311"
+   ],
+   "level": "Junior",
+   "section": "swe",
+   "posted": "2026-10-22",
+   "added": "2026-10-23T08:01:37.000Z",
+   "url": "https://aplyr.ai/jobs/7322d4ecdc7d/quality-engineer-i-onsite?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-23",
+   "closedAt": "2026-10-24"
+  },
+  "jpmorganchase.com::global security technical security project manager associate": {
+   "id": "2985805d2602",
+   "company": "JPMorgan Chase",
+   "companyUrl": "https://aplyr.ai/companies/jpmorganchase?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Global Security - Technical Security Project Manager - Associate",
+   "locations": [
+    "Columbus, OH"
+   ],
+   "level": "Junior",
+   "section": "swe",
+   "posted": "2026-10-22",
+   "added": "2026-10-23T11:17:02.000Z",
+   "url": "https://aplyr.ai/jobs/2985805d2602/global-security-technical-security-project-manager-associate?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-23",
+   "closedAt": "2026-10-24"
+  },
+  "geappliancesco.com::digital technology spring 2027 intern": {
+   "id": "9b8f718b108b",
+   "company": "GE Appliances",
+   "companyUrl": "https://aplyr.ai/companies/geappliancesco?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Digital Technology Spring 2027 Intern",
+   "locations": [
+    "USA, Louisville, KY"
+   ],
+   "level": "Intern",
+   "section": "swe",
+   "posted": "2026-10-21",
+   "added": "2026-10-21T22:50:56.000Z",
+   "url": "https://aplyr.ai/jobs/9b8f718b108b/digital-technology-spring-2027-intern?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-22",
+   "closedAt": "2026-10-24"
+  },
+  "averydennison.com::associate product manager media solutions": {
+   "id": "1d41b31707f1",
+   "company": "Avery Dennison",
+   "companyUrl": "https://aplyr.ai/companies/averydennison?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Associate Product Manager, Media Solutions",
+   "locations": [
+    "Little Rock"
+   ],
+   "remote": true,
+   "level": "Junior",
+   "section": "pm",
+   "posted": "2026-10-21",
+   "added": "2026-10-22T11:03:40.000Z",
+   "pay": "$82k–123k/yr",
+   "url": "https://aplyr.ai/jobs/1d41b31707f1/associate-product-manager-media-solutions?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-22",
+   "closedAt": "2026-10-24"
+  },
+  "affirm.com::analyst early career full stack": {
+   "id": "7ea422e77d2f",
+   "company": "Affirm",
+   "companyUrl": "https://aplyr.ai/companies/affirm?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Analyst, Early Career (Full Stack)",
+   "locations": [
+    "New York, New York",
+    "San Francisco, California"
+   ],
+   "level": "New grad",
+   "section": "swe",
+   "posted": "2026-10-21",
+   "added": "2026-10-22T05:01:40.000Z",
+   "pay": "$115k/yr",
+   "url": "https://aplyr.ai/jobs/7ea422e77d2f/analyst-early-career-full-stack?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-22",
+   "closedAt": "2026-10-24"
+  },
+  "rtx.com::manufacturing electrical engineer i onsite": {
+   "id": "6b73a4790553",
+   "company": "RTX/Raytheon",
+   "companyUrl": "https://aplyr.ai/companies/rtx?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Manufacturing Electrical Engineer I (Onsite)",
+   "locations": [
+    "US-FL-MELBOURNE-308 ~ 1100 W Hibiscus Blvd ~ BLDG 308"
+   ],
+   "level": "Junior",
+   "section": "hw",
+   "posted": "2026-10-21",
+   "added": "2026-10-21T19:01:08.000Z",
+   "url": "https://aplyr.ai/jobs/6b73a4790553/manufacturing-electrical-engineer-i-onsite?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-22",
+   "closedAt": "2026-10-24"
+  },
+  "magna.com::junior ai enigneer": {
+   "id": "670ded79389d",
+   "company": "Magna International",
+   "companyUrl": "https://aplyr.ai/companies/magna?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Junior AI Enigneer",
+   "locations": [
+    "Troy, Michigan"
+   ],
+   "level": "Junior",
+   "section": "data",
+   "posted": "2026-10-20",
+   "added": "2026-10-20T17:33:00.000Z",
+   "url": "https://aplyr.ai/jobs/670ded79389d/junior-ai-enigneer?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-20",
+   "closedAt": "2026-10-24"
+  },
+  "lockheedmartin.com::radio frequency engineer asc e1": {
+   "id": "53c244fa80cf",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Radio Frequency Engineer Asc - E1",
+   "locations": [
+    "Littleton, CO"
+   ],
+   "level": "Junior",
+   "section": "hw",
+   "posted": "2026-10-16",
+   "added": "2026-10-19T11:37:34.000Z",
+   "url": "https://aplyr.ai/jobs/53c244fa80cf/radio-frequency-engineer-asc-e1?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-19",
+   "closedAt": "2026-10-24"
+  },
+  "lockheedmartin.com::mechanical engineer intern radio frequency rf product": {
+   "id": "54ab93d2ee1a",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Mechanical Engineer Intern (Radio Frequency/RF Product)",
+   "locations": [
+    "Andover, MA"
+   ],
+   "level": "Intern",
+   "section": "hw",
+   "posted": "2026-10-16",
+   "added": "2026-10-19T11:37:34.000Z",
+   "url": "https://aplyr.ai/jobs/54ab93d2ee1a/mechanical-engineer-intern-radio-frequencyrf-product?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-19",
+   "closedAt": "2026-10-24"
+  },
+  "micron.com::intern dram customer enablement engineering": {
+   "id": "a86673e93018",
+   "company": "Micron",
+   "companyUrl": "https://aplyr.ai/companies/micron?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Intern - DRAM Customer Enablement Engineering",
+   "locations": [
+    "Boise, ID - Main Site"
+   ],
+   "level": "Intern",
+   "section": "hw",
+   "posted": "2026-10-16",
+   "added": "2026-10-17T22:22:16.000Z",
+   "url": "https://aplyr.ai/jobs/a86673e93018/intern-dram-customer-enablement-engineering?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-18",
+   "closedAt": "2026-10-24"
+  },
+  "lockheedmartin.com::environmental functional test asc": {
+   "id": "b32fca706014",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Environmental & Functional Test Asc",
+   "locations": [
+    "Littleton, CO"
+   ],
+   "level": "Junior",
+   "section": "swe",
+   "posted": "2026-10-15",
+   "added": "2026-10-19T11:37:34.000Z",
+   "url": "https://aplyr.ai/jobs/b32fca706014/environmental-functional-test-asc?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-19",
+   "closedAt": "2026-10-24"
+  },
+  "lockheedmartin.com::f 35 information system security officer luke afb az early career": {
+   "id": "0b638d6361e0",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "F-35 Information System Security Officer - Luke AFB, AZ (Early Career)",
+   "locations": [
+    "Luke AFB, AZ"
+   ],
+   "level": "Junior",
+   "section": "swe",
+   "posted": "2026-10-15",
+   "added": "2026-10-19T11:37:34.000Z",
+   "url": "https://aplyr.ai/jobs/0b638d6361e0/f-35-information-system-security-officer-luke-afb-az-early-career?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-19",
+   "closedAt": "2026-10-24"
+  },
+  "lockheedmartin.com::test engineering intern": {
+   "id": "824c54be8f98",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Test Engineering Intern",
+   "locations": [
+    "Owego, NY"
+   ],
+   "level": "Intern",
+   "section": "swe",
+   "posted": "2026-10-15",
+   "added": "2026-10-19T11:37:34.000Z",
+   "url": "https://aplyr.ai/jobs/824c54be8f98/test-engineering-intern?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-19",
+   "closedAt": "2026-10-24"
+  },
+  "lockheedmartin.com::electrical engineer asc early career": {
+   "id": "cf9d97cc3bd4",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Electrical Engineer Asc - Early Career",
+   "locations": [
+    "Littleton, CO",
+    "Vandenberg AFB, CA"
+   ],
+   "level": "Junior",
+   "section": "hw",
+   "posted": "2026-10-15",
+   "added": "2026-10-19T11:37:34.000Z",
+   "url": "https://aplyr.ai/jobs/cf9d97cc3bd4/electrical-engineer-asc-early-career?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-19",
+   "closedAt": "2026-10-24"
+  },
+  "global.abb::quality engineering intern winter 2027": {
+   "id": "e90f7f435860",
+   "company": "ABB",
+   "companyUrl": "https://aplyr.ai/companies/global?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Quality Engineering Intern-Winter 2027",
+   "locations": [
+    "Dorval, Quebec, Canada"
+   ],
+   "level": "Intern",
+   "section": "swe",
+   "posted": "2026-10-15",
+   "added": "2026-10-16T07:28:57.000Z",
+   "url": "https://aplyr.ai/jobs/e90f7f435860/quality-engineering-intern-winter-2027?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-19",
+   "closedAt": "2026-10-24"
+  },
+  "northropgrumman.com::pc network support tech 2 3 third shift secret": {
+   "id": "2e5e4fa6d6a6",
+   "company": "Northrop Grumman",
+   "companyUrl": "https://aplyr.ai/companies/northropgrumman?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "PC Network Support Tech 2 / 3 - Third Shift - Secret",
+   "locations": [
+    "United States-California-Palmdale"
+   ],
+   "level": "Junior",
+   "section": "swe",
+   "posted": "2026-10-15",
+   "added": "2026-10-17T22:25:12.000Z",
+   "pay": "$51k–102k/yr",
+   "url": "https://aplyr.ai/jobs/2e5e4fa6d6a6/pc-network-support-tech-2-3-third-shift-secret?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-22",
+   "closedAt": "2026-10-24"
+  },
+  "lockheedmartin.com::radio frequency engineer early career": {
+   "id": "b8a10b12ba2f",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Radio Frequency Engineer - Early Career",
+   "locations": [
+    "Littleton, CO"
+   ],
+   "level": "New grad",
+   "section": "hw",
+   "posted": "2026-10-14",
+   "added": "2026-10-19T11:37:34.000Z",
+   "url": "https://aplyr.ai/jobs/b8a10b12ba2f/radio-frequency-engineer-early-career?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-23",
+   "closedAt": "2026-10-24"
+  },
+  "lockheedmartin.com::production test engineer ate early career": {
+   "id": "b2a5fe8966fa",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Production Test Engineer (ATE) - Early Career",
+   "locations": [
+    "Troy, AL"
+   ],
+   "level": "New grad",
+   "section": "hw",
+   "posted": "2026-10-14",
+   "added": "2026-10-19T11:37:34.000Z",
+   "url": "https://aplyr.ai/jobs/b2a5fe8966fa/production-test-engineer-ate-early-career?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-23",
+   "closedAt": "2026-10-24"
+  },
+  "lockheedmartin.com::systems integration test engineer associate e1": {
+   "id": "b42d1ebd2fe1",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Systems Integration/Test Engineer Associate - E1",
+   "locations": [
+    "Grand Prairie, TX"
+   ],
+   "level": "Junior",
+   "section": "hw",
+   "posted": "2026-10-14",
+   "added": "2026-10-19T11:37:34.000Z",
+   "url": "https://aplyr.ai/jobs/b42d1ebd2fe1/systems-integrationtest-engineer-associate-e1?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-23",
+   "closedAt": "2026-10-24"
+  },
+  "lockheedmartin.com::harness design engineer asc early career": {
+   "id": "c369a82357fa",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Harness Design Engineer Asc - Early Career",
+   "locations": [
+    "Marietta, GA"
+   ],
+   "level": "Junior",
+   "section": "hw",
+   "posted": "2026-10-14",
+   "added": "2026-10-19T11:37:34.000Z",
+   "url": "https://aplyr.ai/jobs/c369a82357fa/harness-design-engineer-asc-early-career?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-23",
+   "closedAt": "2026-10-24"
+  },
+  "lockheedmartin.com::a ai research engineer early career": {
+   "id": "fb09fba95f41",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "A/AI Research Engineer - Early Career",
+   "locations": [
+    "King of Prussia, PA",
+    "Littleton, CO"
+   ],
+   "level": "New grad",
+   "section": "data",
+   "posted": "2026-10-14",
+   "added": "2026-10-19T11:37:34.000Z",
+   "url": "https://aplyr.ai/jobs/fb09fba95f41/aai-research-engineer-early-career?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-23",
+   "closedAt": "2026-10-24"
+  },
+  "nissan-global.com::people analytics intern summer 2027 franklin tn": {
+   "id": "0cc1a9a3bb27",
+   "company": "Nissan Global",
+   "companyUrl": "https://aplyr.ai/companies/nissan-global?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "People Analytics Intern - Summer 2027 - Franklin, TN",
+   "locations": [
+    "Franklin, Tennessee - United States of America"
+   ],
+   "level": "Intern",
+   "section": "data",
+   "posted": "2026-10-14",
+   "added": "2026-10-15T07:41:45.000Z",
+   "url": "https://aplyr.ai/jobs/0cc1a9a3bb27/people-analytics-intern-summer-2027-franklin-tn?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-10-24"
+  },
+  "nissan-global.com::computational material science intern spring 2027 santa clara ca": {
+   "id": "a458621c55fc",
+   "company": "Nissan Global",
+   "companyUrl": "https://aplyr.ai/companies/nissan-global?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Computational Material Science Intern - Spring 2027 - Santa Clara, CA",
+   "locations": [
+    "Santa Clara, California - United States of America"
+   ],
+   "level": "Intern",
+   "section": "swe",
+   "posted": "2026-10-14",
+   "added": "2026-10-15T07:41:45.000Z",
+   "url": "https://aplyr.ai/jobs/a458621c55fc/computational-material-science-intern-spring-2027-santa-clara-ca?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-10-24"
+  },
+  "jll.com::real estate advisory and consulting summer 2027 internship washington dc": {
+   "id": "6d85869d9053",
+   "company": "JLL",
+   "companyUrl": "https://aplyr.ai/companies/jll?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Real Estate Advisory and Consulting Summer 2027 Internship - Washington, DC",
+   "locations": [
+    "Washington, DC"
+   ],
+   "level": "Intern",
+   "section": "data",
+   "posted": "2026-10-14",
+   "added": "2026-10-14T07:01:51.000Z",
+   "url": "https://aplyr.ai/jobs/6d85869d9053/real-estate-advisory-and-consulting-summer-2027-internship-washington-dc?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-10-24"
+  },
+  "lockheedmartin.com::software engineering intern": {
+   "id": "7ba88e5820cb",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Software Engineering Intern",
+   "locations": [
+    "King of Prussia, PA"
+   ],
+   "level": "Intern",
+   "section": "swe",
+   "posted": "2026-10-13",
+   "added": "2026-10-19T11:37:34.000Z",
+   "url": "https://aplyr.ai/jobs/7ba88e5820cb/software-engineering-intern?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-19",
+   "closedAt": "2026-10-24"
+  },
+  "lockheedmartin.com::cyber systems security engineering entry level": {
+   "id": "62e58fae5054",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Cyber Systems Security Engineering Entry Level",
+   "locations": [
+    "Huntsville, AL",
+    "Littleton, CO"
+   ],
+   "level": "New grad",
+   "section": "swe",
+   "posted": "2026-10-13",
+   "added": "2026-10-19T11:37:34.000Z",
+   "url": "https://aplyr.ai/jobs/62e58fae5054/cyber-systems-security-engineering-entry-level?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-19",
+   "closedAt": "2026-10-24"
+  },
+  "lockheedmartin.com::systems integration electrical test engineer intern": {
+   "id": "8ecf7f3e67e4",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Systems Integration/Electrical Test Engineer-INTERN",
+   "locations": [
+    "Cape Canaveral, FL"
+   ],
+   "level": "Intern",
+   "section": "swe",
+   "posted": "2026-10-13",
+   "added": "2026-10-19T11:37:34.000Z",
+   "url": "https://aplyr.ai/jobs/8ecf7f3e67e4/systems-integrationelectrical-test-engineer-intern?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-19",
+   "closedAt": "2026-10-24"
+  },
+  "lockheedmartin.com::security administrator entry level": {
+   "id": "da25fb21338b",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Security Administrator - Entry Level",
+   "locations": [
+    "Fort Worth, TX"
+   ],
+   "level": "New grad",
+   "section": "swe",
+   "posted": "2026-10-13",
+   "added": "2026-10-19T11:37:34.000Z",
+   "url": "https://aplyr.ai/jobs/da25fb21338b/security-administrator-entry-level?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-19",
+   "closedAt": "2026-10-24"
+  },
+  "lockheedmartin.com::predictive analytics cost engineering intern": {
+   "id": "14b7de20c031",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Predictive Analytics & Cost Engineering Intern",
+   "locations": [
+    "Littleton, CO"
+   ],
+   "level": "Intern",
+   "section": "data",
+   "posted": "2026-10-09",
+   "added": "2026-10-19T11:37:34.000Z",
+   "url": "https://aplyr.ai/jobs/14b7de20c031/predictive-analytics-cost-engineering-intern?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-19",
+   "closedAt": "2026-10-24"
+  },
+  "gm.com::2027 summer intern onboard autonomy embodied ai": {
+   "id": "8513c7478beb",
+   "company": "General Motors",
+   "companyUrl": "https://aplyr.ai/companies/gm?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "2027 Summer Intern, Onboard Autonomy, Embodied AI",
+   "locations": [
+    "Sunnyvale, California"
+   ],
+   "level": "Intern",
+   "section": "data",
+   "posted": "2026-10-09",
+   "added": "2026-10-11T09:00:41.000Z",
+   "pay": "$11,800–14,600/mo",
+   "url": "https://aplyr.ai/jobs/8513c7478beb/2027-summer-intern-onboard-autonomy-embodied-ai?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-10-24"
+  },
+  "boozallen.com::ai software developer junior": {
+   "id": "61952fbf1000",
+   "company": "Booz Allen Hamilton",
+   "companyUrl": "https://aplyr.ai/companies/boozallen?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "AI Software Developer, Junior",
+   "locations": [
+    "San Diego, CA"
+   ],
+   "level": "Junior",
+   "section": "swe",
+   "posted": "2026-10-08",
+   "added": "2026-10-17T22:26:50.000Z",
+   "url": "https://aplyr.ai/jobs/61952fbf1000/ai-software-developer-junior?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-10-24"
+  },
+  "lockheedmartin.com::ai ml engineering intern summer 2027": {
+   "id": "143ffd93285c",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "AI/ML Engineering Intern - Summer 2027",
+   "locations": [
+    "King of Prussia, PA",
+    "Littleton, CO"
+   ],
+   "level": "Intern",
+   "section": "data",
+   "posted": "2026-10-08",
+   "added": "2026-10-19T11:37:34.000Z",
+   "url": "https://aplyr.ai/jobs/143ffd93285c/aiml-engineering-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-19",
+   "closedAt": "2026-10-24"
+  },
+  "lockheedmartin.com::database engineer entry level": {
+   "id": "67a60e3b70cb",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Database Engineer - Entry Level",
+   "locations": [
+    "Annapolis Junction, MD"
+   ],
+   "level": "New grad",
+   "section": "data",
+   "posted": "2026-10-08",
+   "added": "2026-10-19T11:37:34.000Z",
+   "url": "https://aplyr.ai/jobs/67a60e3b70cb/database-engineer-entry-level?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-19",
+   "closedAt": "2026-10-24"
+  },
+  "lockheedmartin.com::college student full stack software engineer intern": {
+   "id": "f4b09e69bc7f",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "College Student - Full-Stack Software Engineer Intern",
+   "locations": [
+    "Palmdale, CA",
+    "Fort Worth, TX"
+   ],
+   "level": "Intern",
+   "section": "swe",
+   "posted": "2026-10-08",
+   "added": "2026-10-19T11:37:34.000Z",
+   "url": "https://aplyr.ai/jobs/f4b09e69bc7f/college-student-full-stack-software-engineer-intern?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-19",
+   "closedAt": "2026-10-24"
+  },
+  "lockheedmartin.com::ai ml engineering intern": {
+   "id": "91931d672f68",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "AI/ML Engineering Intern",
+   "locations": [
+    "King of Prussia, PA",
+    "Moorestown, NJ"
+   ],
+   "level": "Intern",
+   "section": "data",
+   "posted": "2026-10-08",
+   "added": "2026-10-19T11:37:34.000Z",
+   "url": "https://aplyr.ai/jobs/91931d672f68/aiml-engineering-intern?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-19",
+   "closedAt": "2026-10-24"
+  },
+  "lockheedmartin.com::systems integration and test engineer intern": {
+   "id": "5d72b97cdf36",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Systems Integration and Test Engineer Intern",
+   "locations": [
+    "Chelmsford, MA"
+   ],
+   "level": "Intern",
+   "section": "swe",
+   "posted": "2026-10-08",
+   "added": "2026-10-19T11:37:34.000Z",
+   "url": "https://aplyr.ai/jobs/5d72b97cdf36/systems-integration-and-test-engineer-intern?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-19",
+   "closedAt": "2026-10-24"
+  },
+  "lockheedmartin.com::software engineer cyber intern": {
+   "id": "674c647b4108",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Software Engineer (Cyber) - Intern",
+   "locations": [
+    "Hanover, MD"
+   ],
+   "level": "Intern",
+   "section": "swe",
+   "posted": "2026-10-07",
+   "added": "2026-10-19T11:37:34.000Z",
+   "url": "https://aplyr.ai/jobs/674c647b4108/software-engineer-cyber-intern?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-19",
+   "closedAt": "2026-10-24"
+  },
+  "faire.com::applied ai ml scientist intern": {
+   "id": "ec8eab005153",
+   "company": "Faire",
+   "companyUrl": "https://aplyr.ai/companies/faire?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
+   "title": "Applied AI/ML Scientist, Intern",
+   "locations": [
+    "San Francisco, CA"
+   ],
+   "level": "Intern",
+   "section": "data",
+   "posted": "2026-10-06",
+   "added": "2026-10-10T05:46:18.000Z",
+   "pay": "$23.06–34.56/hr",
+   "url": "https://aplyr.ai/jobs/ec8eab005153/applied-aiml-scientist-intern?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-10-24"
+  },
   "massgeneralbrigham.org::postdoctoral research fellowship medical artificial intelligence": {
    "id": "34627c738a65",
    "company": "Mass General Brigham",
@@ -8664,76 +9469,6 @@
    "posted": "2026-10-13",
    "added": "2026-10-17T22:44:43.000Z",
    "url": "https://aplyr.ai/jobs/a9f83ebfdf5a/new-york-internal-audit-and-financial-advisory-intern-2027?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-23"
-  },
-  "kla.com::software engineering intern": {
-   "id": "2a4e3ee1336c",
-   "company": "KLA Corporation",
-   "companyUrl": "https://aplyr.ai/companies/kla?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "Software Engineering Intern",
-   "locations": [
-    "Ann Arbor, MI",
-    "Milpitas, CA"
-   ],
-   "level": "Intern",
-   "section": "swe",
-   "posted": "2026-10-13",
-   "added": "2026-10-17T22:24:25.000Z",
-   "url": "https://aplyr.ai/jobs/2a4e3ee1336c/software-engineering-intern?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-23"
-  },
-  "kla.com::software engineer intern ai": {
-   "id": "4dbb8d2ff218",
-   "company": "KLA Corporation",
-   "companyUrl": "https://aplyr.ai/companies/kla?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "Software Engineer Intern - AI",
-   "locations": [
-    "Ann Arbor, MI"
-   ],
-   "level": "Intern",
-   "section": "swe",
-   "posted": "2026-10-13",
-   "added": "2026-10-17T22:24:25.000Z",
-   "url": "https://aplyr.ai/jobs/4dbb8d2ff218/software-engineer-intern-ai?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-23"
-  },
-  "itron.com::intern people analytics summer 2027": {
-   "id": "804a6c70e4c6",
-   "company": "Itron",
-   "companyUrl": "https://aplyr.ai/companies/itron?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "Intern - People Analytics (Summer 2027)",
-   "locations": [
-    "United States of America, Washington, Liberty Lake"
-   ],
-   "level": "Intern",
-   "section": "data",
-   "posted": "2026-10-09",
-   "added": "2026-10-10T07:46:00.000Z",
-   "pay": "$128k–214k/yr",
-   "url": "https://aplyr.ai/jobs/804a6c70e4c6/intern-people-analytics-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-23"
-  },
-  "itron.com::intern hr ai data science summer 2027": {
-   "id": "cd636307ad48",
-   "company": "Itron",
-   "companyUrl": "https://aplyr.ai/companies/itron?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "Intern - HR AI Data Science (Summer 2027)",
-   "locations": [
-    "United States of America, Texas, Austin"
-   ],
-   "level": "Intern",
-   "section": "data",
-   "posted": "2026-10-09",
-   "added": "2026-10-10T07:46:00.000Z",
-   "url": "https://aplyr.ai/jobs/cd636307ad48/intern-hr-ai-data-science-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17",
    "closedAt": "2026-10-23"
@@ -9125,59 +9860,6 @@
    "url": "https://aplyr.ai/jobs/6e0a984107c7/product-owner-i-us?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-18",
-   "closedAt": "2026-10-22"
-  },
-  "boozallen.com::university software engineer intern": {
-   "id": "288f78241222",
-   "company": "Booz Allen Hamilton",
-   "companyUrl": "https://aplyr.ai/companies/boozallen?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "University, Software Engineer Intern",
-   "locations": [
-    "Fayetteville, NC"
-   ],
-   "level": "Intern",
-   "section": "swe",
-   "posted": "2026-10-16",
-   "added": "2026-10-17T22:26:50.000Z",
-   "pay": "$53k–108k/yr",
-   "url": "https://aplyr.ai/jobs/288f78241222/university-software-engineer-intern?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-22"
-  },
-  "labcorp.com::assoc data analyst": {
-   "id": "e2021c73750a",
-   "company": "Labcorp",
-   "companyUrl": "https://aplyr.ai/companies/labcorp?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "Assoc Data Analyst",
-   "locations": [
-    "Bengaluru India"
-   ],
-   "level": "Junior",
-   "section": "data",
-   "posted": "2026-10-15",
-   "added": "2026-10-17T22:16:45.000Z",
-   "url": "https://aplyr.ai/jobs/e2021c73750a/assoc-data-analyst?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-19",
-   "closedAt": "2026-10-22"
-  },
-  "carrier.com::software engineering intern summer": {
-   "id": "dcb3602137d2",
-   "company": "Carrier",
-   "companyUrl": "https://aplyr.ai/companies/carrier?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=company",
-   "title": "Software Engineering Intern - Summer",
-   "locations": [
-    "CANHQ: CCS HQ - Syracuse, 6304 Carrier Parkway, East Syracuse, NY, 13057 USA"
-   ],
-   "level": "Intern",
-   "section": "swe",
-   "posted": "2026-10-15",
-   "added": "2026-10-16T07:56:17.000Z",
-   "pay": "$44k–88k/yr",
-   "url": "https://aplyr.ai/jobs/dcb3602137d2/software-engineering-intern-summer?utm_source=github&utm_medium=joblist&utm_campaign=h1b-sponsoring-tech-jobs&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17",
    "closedAt": "2026-10-22"
   },
   "astreya.com::ai infrastructure dc design intern": {
